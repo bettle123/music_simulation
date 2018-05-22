@@ -1,0 +1,25 @@
+﻿  main.cpp
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(138): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(288): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(289): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(290): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(292): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(336): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(340): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(588): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(591): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(599): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(602): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(609): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(612): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(619): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(622): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(629): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(632): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(639): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(642): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(647): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(662): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(669): warning C4018: '<': signed/unsigned mismatch
+c:\users\san34\desktop\2018_summer\project\music_simulation\music_simulation\main.cpp(264): warning C4715: 'createShader': not all control paths return a value
+  music_simulation.vcxproj -> C:\Users\san34\Desktop\2018_summer\project\music_simulation\Debug\music_simulation.exe

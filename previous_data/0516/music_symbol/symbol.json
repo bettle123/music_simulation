@@ -1,0 +1,4733 @@
+[
+{
+    "name": "comma",
+    "x": 27,
+    "y": 42,
+    "w": 55,
+    "h": 84
+},
+{
+    "name": "byzantine_musical_symbol_tromikosynagma",
+    "x": 146,
+    "y": 68,
+    "w": 292,
+    "h": 137
+},
+{
+    "name": "musical_symbol_decrescendo",
+    "x": 72,
+    "y": 27,
+    "w": 145,
+    "h": 54
+},
+{
+    "name": "byzantine_musical_symbol_martyria_protovarys_ichos",
+    "x": 102,
+    "y": 79,
+    "w": 204,
+    "h": 159
+},
+{
+    "name": "bullet",
+    "x": 56,
+    "y": 56,
+    "w": 112,
+    "h": 113
+},
+{
+    "name": "musical_symbol_tempus_perfectum_cum_prolatione_perfecta_diminution-1",
+    "x": 45,
+    "y": 62,
+    "w": 90,
+    "h": 124
+},
+{
+    "name": "byzantine_musical_symbol_paraklitiki_neo",
+    "x": 131,
+    "y": 19,
+    "w": 263,
+    "h": 39
+},
+{
+    "name": "musical_symbol_glissando_up",
+    "x": 63,
+    "y": 63,
+    "w": 127,
+    "h": 126
+},
+{
+    "name": "greek_vocal_notation_symbol-11",
+    "x": 123,
+    "y": 83,
+    "w": 247,
+    "h": 166
+},
+{
+    "name": "byzantine_musical_symbol_chroa_spathi",
+    "x": 82,
+    "y": 31,
+    "w": 165,
+    "h": 62
+},
+{
+    "name": "byzantine_musical_symbol_tinagma",
+    "x": 159,
+    "y": 59,
+    "w": 319,
+    "h": 119
+},
+{
+    "name": "currency_sign",
+    "x": 73,
+    "y": 73,
+    "w": 147,
+    "h": 147
+},
+{
+    "name": "musical_symbol_combining_down_bow",
+    "x": 32,
+    "y": 34,
+    "w": 65,
+    "h": 68
+},
+{
+    "name": "musical_symbol_turn",
+    "x": 82,
+    "y": 37,
+    "w": 165,
+    "h": 75
+},
+{
+    "name": "latin_capital_letter_h",
+    "x": 127,
+    "y": 103,
+    "w": 255,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_gorgon_parestigmenon_aristera",
+    "x": 62,
+    "y": 15,
+    "w": 125,
+    "h": 31
+},
+{
+    "name": "byzantine_musical_symbol_oligon_archaion",
+    "x": 92,
+    "y": 75,
+    "w": 184,
+    "h": 151
+},
+{
+    "name": "ampersand",
+    "x": 98,
+    "y": 111,
+    "w": 196,
+    "h": 222
+},
+{
+    "name": "musical_symbol_triangle_notehead_right_white",
+    "x": 42,
+    "y": 36,
+    "w": 84,
+    "h": 72
+},
+{
+    "name": "byzantine_musical_symbol_fthora_malakon_chroma_monofonias",
+    "x": 41,
+    "y": 40,
+    "w": 83,
+    "h": 80
+},
+{
+    "name": "byzantine_musical_symbol_gorgon_neo_kato",
+    "x": 44,
+    "y": 15,
+    "w": 88,
+    "h": 31
+},
+{
+    "name": "musical_symbol_natural_up",
+    "x": 34,
+    "y": 101,
+    "w": 69,
+    "h": 203
+},
+{
+    "name": "middle_dot",
+    "x": 14,
+    "y": 14,
+    "w": 29,
+    "h": 29
+},
+{
+    "name": "greek_instrumental_notation_symbol-40",
+    "x": 103,
+    "y": 96,
+    "w": 207,
+    "h": 192
+},
+{
+    "name": "greek_instrumental_notation_symbol-54",
+    "x": 77,
+    "y": 101,
+    "w": 154,
+    "h": 202
+},
+{
+    "name": "latin_capital_letter_i",
+    "x": 60,
+    "y": 103,
+    "w": 121,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_petasti",
+    "x": 117,
+    "y": 40,
+    "w": 235,
+    "h": 81
+},
+{
+    "name": "byzantine_musical_symbol_seisma",
+    "x": 166,
+    "y": 104,
+    "w": 332,
+    "h": 209
+},
+{
+    "name": "byzantine_musical_symbol_xiron_klasma",
+    "x": 134,
+    "y": 32,
+    "w": 268,
+    "h": 65
+},
+{
+    "name": "musical_symbol_circle_x_notehead",
+    "x": 35,
+    "y": 36,
+    "w": 71,
+    "h": 72
+},
+{
+    "name": "byzantine_musical_symbol_apli",
+    "x": 15,
+    "y": 13,
+    "w": 31,
+    "h": 26
+},
+{
+    "name": "byzantine_musical_symbol_paraklitiki_archaion",
+    "x": 159,
+    "y": 104,
+    "w": 318,
+    "h": 209
+},
+{
+    "name": "musical_symbol_grace_note_no_slash",
+    "x": 38,
+    "y": 66,
+    "w": 76,
+    "h": 132
+},
+{
+    "name": "greek_vocal_notation_symbol-10",
+    "x": 90,
+    "y": 143,
+    "w": 181,
+    "h": 287
+},
+{
+    "name": "byzantine_musical_symbol_apostrofoi_syndesmos_neo",
+    "x": 98,
+    "y": 46,
+    "w": 197,
+    "h": 92
+},
+{
+    "name": "byzantine_musical_symbol_koronis",
+    "x": 49,
+    "y": 27,
+    "w": 98,
+    "h": 55
+},
+{
+    "name": "musical_symbol_brace",
+    "x": 32,
+    "y": 129,
+    "w": 65,
+    "h": 258
+},
+{
+    "name": "musical_symbol_with_fingernails",
+    "x": 42,
+    "y": 24,
+    "w": 85,
+    "h": 49
+},
+{
+    "name": "byzantine_musical_symbol_apostrofos_dipli",
+    "x": 139,
+    "y": 78,
+    "w": 278,
+    "h": 157
+},
+{
+    "name": "combining_greek_musical_triseme",
+    "x": 86,
+    "y": 41,
+    "w": 173,
+    "h": 82
+},
+{
+    "name": "mathematical_left_angle_bracket",
+    "x": 67,
+    "y": 146,
+    "w": 135,
+    "h": 293
+},
+{
+    "name": "byzantine_musical_symbol_digramma_gg",
+    "x": 48,
+    "y": 52,
+    "w": 96,
+    "h": 105
+},
+{
+    "name": "greek_vocal_notation_symbol-1",
+    "x": 117,
+    "y": 97,
+    "w": 235,
+    "h": 195
+},
+{
+    "name": "byzantine_musical_symbol_kremasti",
+    "x": 157,
+    "y": 103,
+    "w": 314,
+    "h": 207
+},
+{
+    "name": "byzantine_musical_symbol_martyria_deyteros_ichos",
+    "x": 87,
+    "y": 28,
+    "w": 174,
+    "h": 57
+},
+{
+    "name": "byzantine_musical_symbol_diesis_apli_dyo_dodekata",
+    "x": 32,
+    "y": 30,
+    "w": 64,
+    "h": 61
+},
+{
+    "name": "greek_vocal_notation_symbol-3",
+    "x": 113,
+    "y": 103,
+    "w": 227,
+    "h": 206
+},
+{
+    "name": "musical_symbol_null_notehead",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "musical_symbol_pedal_up_mark",
+    "x": 48,
+    "y": 47,
+    "w": 97,
+    "h": 95
+},
+{
+    "name": "greek_vocal_notation_symbol-12",
+    "x": 128,
+    "y": 103,
+    "w": 257,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_diastoli_apli_mikri",
+    "x": 5,
+    "y": 24,
+    "w": 11,
+    "h": 49
+},
+{
+    "name": "byzantine_musical_symbol_tromikon_allo",
+    "x": 233,
+    "y": 87,
+    "w": 466,
+    "h": 175
+},
+{
+    "name": "byzantine_musical_symbol_fthora_diatoniki_zo",
+    "x": 35,
+    "y": 55,
+    "w": 70,
+    "h": 111
+},
+{
+    "name": "minus_sign",
+    "x": 70,
+    "y": 10,
+    "w": 140,
+    "h": 21
+},
+{
+    "name": "byzantine_musical_symbol_trigorgon",
+    "x": 88,
+    "y": 37,
+    "w": 177,
+    "h": 74
+},
+{
+    "name": "musical_symbol_f_clef_ottava_bassa",
+    "x": 90,
+    "y": 114,
+    "w": 181,
+    "h": 229
+},
+{
+    "name": "musical_symbol_square_b",
+    "x": 42,
+    "y": 90,
+    "w": 85,
+    "h": 180
+},
+{
+    "name": "byzantine_musical_symbol_arktiko_ga",
+    "x": 29,
+    "y": 40,
+    "w": 59,
+    "h": 80
+},
+{
+    "name": "latin_capital_letter_k",
+    "x": 109,
+    "y": 103,
+    "w": 219,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_fthora_archaion_deyterou_ichou",
+    "x": 82,
+    "y": 35,
+    "w": 164,
+    "h": 71
+},
+{
+    "name": "greek_instrumental_notation_symbol-42",
+    "x": 103,
+    "y": 96,
+    "w": 207,
+    "h": 192
+},
+{
+    "name": "musical_symbol_combining_smear",
+    "x": 23,
+    "y": 15,
+    "w": 47,
+    "h": 31
+},
+{
+    "name": "byzantine_musical_symbol_agogi_gorgoteri",
+    "x": 66,
+    "y": 61,
+    "w": 133,
+    "h": 123
+},
+{
+    "name": "musical_symbol_turn_up",
+    "x": 37,
+    "y": 82,
+    "w": 75,
+    "h": 165
+},
+{
+    "name": "musical_symbol_f_clef",
+    "x": 90,
+    "y": 104,
+    "w": 181,
+    "h": 208
+},
+{
+    "name": "musical_symbol_g_clef",
+    "x": 61,
+    "y": 169,
+    "w": 122,
+    "h": 339
+},
+{
+    "name": "musical_symbol_x_notehead",
+    "x": 32,
+    "y": 33,
+    "w": 65,
+    "h": 66
+},
+{
+    "name": "greek_instrumental_notation_symbol-43",
+    "x": 98,
+    "y": 81,
+    "w": 196,
+    "h": 162
+},
+{
+    "name": "byzantine_musical_symbol_fthora_i_yfesis_tetartimorion",
+    "x": 54,
+    "y": 31,
+    "w": 108,
+    "h": 63
+},
+{
+    "name": "musical_symbol_triangle_notehead_left_black",
+    "x": 41,
+    "y": 36,
+    "w": 83,
+    "h": 72
+},
+{
+    "name": "latin_capital_letter_j",
+    "x": 73,
+    "y": 134,
+    "w": 147,
+    "h": 268
+},
+{
+    "name": "musical_symbol_single_barline",
+    "x": 7,
+    "y": 130,
+    "w": 15,
+    "h": 261
+},
+{
+    "name": "musical_symbol_begin_tie",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "musical_symbol_repeat_dots",
+    "x": 18,
+    "y": 50,
+    "w": 37,
+    "h": 101
+},
+{
+    "name": "musical_symbol_combining_tenuto",
+    "x": 40,
+    "y": 8,
+    "w": 81,
+    "h": 16
+},
+{
+    "name": "left_curly_bracket",
+    "x": 62,
+    "y": 152,
+    "w": 124,
+    "h": 305
+},
+{
+    "name": "byzantine_musical_symbol_oligon_neo",
+    "x": 121,
+    "y": 19,
+    "w": 242,
+    "h": 38
+},
+{
+    "name": "greek_vocal_notation_symbol-13",
+    "x": 134,
+    "y": 103,
+    "w": 269,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_diftoggos_ou",
+    "x": 33,
+    "y": 41,
+    "w": 66,
+    "h": 83
+},
+{
+    "name": "musical_symbol_moon_notehead_white",
+    "x": 37,
+    "y": 34,
+    "w": 75,
+    "h": 69
+},
+{
+    "name": "musical_symbol_quarter_note",
+    "x": 40,
+    "y": 128,
+    "w": 81,
+    "h": 256
+},
+{
+    "name": "greek_vocal_notation_symbol-2",
+    "x": 123,
+    "y": 109,
+    "w": 247,
+    "h": 219
+},
+{
+    "name": "musical_symbol_eighth_rest",
+    "x": 36,
+    "y": 61,
+    "w": 73,
+    "h": 122
+},
+{
+    "name": "byzantine_musical_symbol_ekstrepton",
+    "x": 105,
+    "y": 47,
+    "w": 210,
+    "h": 95
+},
+{
+    "name": "combining_greek_musical_pentaseme",
+    "x": 87,
+    "y": 41,
+    "w": 174,
+    "h": 82
+},
+{
+    "name": "musical_symbol_climacus",
+    "x": 90,
+    "y": 129,
+    "w": 180,
+    "h": 258
+},
+{
+    "name": "byzantine_musical_symbol_fthora_diatoniki_ni_kato",
+    "x": 38,
+    "y": 40,
+    "w": 77,
+    "h": 81
+},
+{
+    "name": "byzantine_musical_symbol_gronthismata",
+    "x": 198,
+    "y": 100,
+    "w": 396,
+    "h": 200
+},
+{
+    "name": "byzantine_musical_symbol_fthora_naos_ichos",
+    "x": 96,
+    "y": 38,
+    "w": 193,
+    "h": 77
+},
+{
+    "name": "greek_vocal_notation_symbol-6",
+    "x": 105,
+    "y": 81,
+    "w": 211,
+    "h": 162
+},
+{
+    "name": "musical_symbol_combining_triple_tongue",
+    "x": 49,
+    "y": 16,
+    "w": 99,
+    "h": 33
+},
+{
+    "name": "byzantine_musical_symbol_katavasma",
+    "x": 26,
+    "y": 67,
+    "w": 53,
+    "h": 135
+},
+{
+    "name": "musical_symbol_f_clef_ottava_alta",
+    "x": 90,
+    "y": 133,
+    "w": 181,
+    "h": 266
+},
+{
+    "name": "musical_symbol_end_beam",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "digit_five",
+    "x": 61,
+    "y": 104,
+    "w": 122,
+    "h": 209
+},
+{
+    "name": "musical_symbol_combining_double_tongue",
+    "x": 49,
+    "y": 16,
+    "w": 99,
+    "h": 33
+},
+{
+    "name": "byzantine_musical_symbol_pelaston",
+    "x": 98,
+    "y": 161,
+    "w": 197,
+    "h": 322
+},
+{
+    "name": "musical_symbol_whole_rest",
+    "x": 50,
+    "y": 23,
+    "w": 100,
+    "h": 46
+},
+{
+    "name": "byzantine_musical_symbol_synevma",
+    "x": 193,
+    "y": 64,
+    "w": 387,
+    "h": 128
+},
+{
+    "name": "greek_vocal_notation_symbol-17",
+    "x": 105,
+    "y": 57,
+    "w": 211,
+    "h": 114
+},
+{
+    "name": "musical_symbol_brevis_rest",
+    "x": 6,
+    "y": 28,
+    "w": 12,
+    "h": 57
+},
+{
+    "name": "byzantine_musical_symbol_synagma_archaion",
+    "x": 183,
+    "y": 65,
+    "w": 367,
+    "h": 131
+},
+{
+    "name": "byzantine_musical_symbol_rapisma",
+    "x": 109,
+    "y": 40,
+    "w": 219,
+    "h": 81
+},
+{
+    "name": "byzantine_musical_symbol_kentimata_neo_kato",
+    "x": 47,
+    "y": 23,
+    "w": 95,
+    "h": 46
+},
+{
+    "name": "byzantine_musical_symbol_arktiko_vou",
+    "x": 25,
+    "y": 33,
+    "w": 51,
+    "h": 66
+},
+{
+    "name": "musical_symbol_two-line_staff",
+    "x": 129,
+    "y": 36,
+    "w": 258,
+    "h": 73
+},
+{
+    "name": "musical_symbol_combining_tremolo-3",
+    "x": 30,
+    "y": 53,
+    "w": 60,
+    "h": 107
+},
+{
+    "name": "musical_symbol_podatus",
+    "x": 42,
+    "y": 83,
+    "w": 85,
+    "h": 166
+},
+{
+    "name": "latin_capital_letter_n",
+    "x": 118,
+    "y": 103,
+    "w": 236,
+    "h": 206
+},
+{
+    "name": "latin_capital_letter_y",
+    "x": 105,
+    "y": 103,
+    "w": 211,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_agogi_poli_argi",
+    "x": 69,
+    "y": 61,
+    "w": 138,
+    "h": 123
+},
+{
+    "name": "byzantine_musical_symbol_gorgosyntheton",
+    "x": 118,
+    "y": 40,
+    "w": 236,
+    "h": 80
+},
+{
+    "name": "byzantine_musical_symbol_lemoi",
+    "x": 186,
+    "y": 123,
+    "w": 373,
+    "h": 246
+},
+{
+    "name": "greek_instrumental_notation_symbol-47",
+    "x": 65,
+    "y": 101,
+    "w": 131,
+    "h": 202
+},
+{
+    "name": "greek_instrumental_notation_symbol-53",
+    "x": 90,
+    "y": 101,
+    "w": 181,
+    "h": 202
+},
+{
+    "name": "byzantine_musical_symbol_simansis_arseos",
+    "x": 8,
+    "y": 24,
+    "w": 16,
+    "h": 48
+},
+{
+    "name": "musical_symbol_triangle_notehead_down_black",
+    "x": 41,
+    "y": 36,
+    "w": 83,
+    "h": 73
+},
+{
+    "name": "greek_instrumental_notation_symbol-52",
+    "x": 122,
+    "y": 103,
+    "w": 244,
+    "h": 206
+},
+{
+    "name": "number_sign",
+    "x": 66,
+    "y": 106,
+    "w": 132,
+    "h": 213
+},
+{
+    "name": "byzantine_musical_symbol_lygisma",
+    "x": 116,
+    "y": 20,
+    "w": 232,
+    "h": 41
+},
+{
+    "name": "musical_symbol_subito",
+    "x": 33,
+    "y": 37,
+    "w": 67,
+    "h": 75
+},
+{
+    "name": "byzantine_musical_symbol_chamili",
+    "x": 106,
+    "y": 66,
+    "w": 212,
+    "h": 133
+},
+{
+    "name": "latin_capital_letter_x",
+    "x": 114,
+    "y": 103,
+    "w": 228,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_arktiko_di",
+    "x": 39,
+    "y": 33,
+    "w": 78,
+    "h": 66
+},
+{
+    "name": "question_mark",
+    "x": 49,
+    "y": 111,
+    "w": 99,
+    "h": 222
+},
+{
+    "name": "latin_capital_letter_o",
+    "x": 105,
+    "y": 105,
+    "w": 211,
+    "h": 211
+},
+{
+    "name": "musical_symbol_combining_tremolo-2",
+    "x": 30,
+    "y": 39,
+    "w": 60,
+    "h": 78
+},
+{
+    "name": "byzantine_musical_symbol_ypokrisis",
+    "x": 47,
+    "y": 85,
+    "w": 94,
+    "h": 171
+},
+{
+    "name": "right_square_bracket",
+    "x": 66,
+    "y": 135,
+    "w": 132,
+    "h": 271
+},
+{
+    "name": "musical_symbol_sharp_up",
+    "x": 35,
+    "y": 115,
+    "w": 70,
+    "h": 231
+},
+{
+    "name": "byzantine_musical_symbol_straggismata",
+    "x": 147,
+    "y": 67,
+    "w": 294,
+    "h": 134
+},
+{
+    "name": "byzantine_musical_symbol_kentimata_neo_meso",
+    "x": 47,
+    "y": 23,
+    "w": 95,
+    "h": 46
+},
+{
+    "name": "musical_symbol_six-string_fretboard",
+    "x": 117,
+    "y": 129,
+    "w": 234,
+    "h": 258
+},
+{
+    "name": "greek_vocal_notation_symbol-16",
+    "x": 49,
+    "y": 101,
+    "w": 99,
+    "h": 202
+},
+{
+    "name": "musical_symbol_half_note",
+    "x": 40,
+    "y": 128,
+    "w": 81,
+    "h": 256
+},
+{
+    "name": "space",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "byzantine_musical_symbol_kratima_neo",
+    "x": 69,
+    "y": 17,
+    "w": 139,
+    "h": 34
+},
+{
+    "name": "byzantine_musical_symbol_simansis_arseos_disimou",
+    "x": 8,
+    "y": 33,
+    "w": 16,
+    "h": 66
+},
+{
+    "name": "musical_symbol_scandicus",
+    "x": 83,
+    "y": 115,
+    "w": 167,
+    "h": 231
+},
+{
+    "name": "greek_vocal_notation_symbol-7",
+    "x": 81,
+    "y": 105,
+    "w": 162,
+    "h": 211
+},
+{
+    "name": "byzantine_musical_symbol_kratima_allo",
+    "x": 114,
+    "y": 28,
+    "w": 228,
+    "h": 57
+},
+{
+    "name": "byzantine_musical_symbol_klasma",
+    "x": 59,
+    "y": 45,
+    "w": 119,
+    "h": 91
+},
+{
+    "name": "musical_symbol_combining_marcato-staccato",
+    "x": 46,
+    "y": 35,
+    "w": 93,
+    "h": 70
+},
+{
+    "name": "byzantine_musical_symbol_diesis_tritimorion",
+    "x": 45,
+    "y": 51,
+    "w": 91,
+    "h": 103
+},
+{
+    "name": "musical_symbol_ornament_stroke-10",
+    "x": 34,
+    "y": 21,
+    "w": 69,
+    "h": 42
+},
+{
+    "name": "musical_symbol_dal_segno",
+    "x": 97,
+    "y": 49,
+    "w": 194,
+    "h": 98
+},
+{
+    "name": "greek_vocal_notation_symbol-5",
+    "x": 123,
+    "y": 101,
+    "w": 247,
+    "h": 203
+},
+{
+    "name": "dotted_square",
+    "x": 103,
+    "y": 103,
+    "w": 206,
+    "h": 206
+},
+{
+    "name": "musical_symbol_cluster_notehead_black",
+    "x": 37,
+    "y": 102,
+    "w": 75,
+    "h": 204
+},
+{
+    "name": "musical_symbol_scandicus_flexus",
+    "x": 129,
+    "y": 129,
+    "w": 259,
+    "h": 258
+},
+{
+    "name": "greek_vocal_notation_symbol-14",
+    "x": 107,
+    "y": 104,
+    "w": 215,
+    "h": 209
+},
+{
+    "name": "musical_symbol_ornament_stroke-8",
+    "x": 26,
+    "y": 36,
+    "w": 52,
+    "h": 72
+},
+{
+    "name": "byzantine_musical_symbol_simansis_theseos_disimou",
+    "x": 29,
+    "y": 32,
+    "w": 58,
+    "h": 65
+},
+{
+    "name": "musical_symbol_tempus_perfectum_cum_prolatione_imperfecta",
+    "x": 45,
+    "y": 45,
+    "w": 90,
+    "h": 90
+},
+{
+    "name": "byzantine_musical_symbol_tromikon_neo",
+    "x": 53,
+    "y": 59,
+    "w": 106,
+    "h": 119
+},
+{
+    "name": "latin_capital_letter_m",
+    "x": 127,
+    "y": 103,
+    "w": 255,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_simansis_theseos",
+    "x": 29,
+    "y": 23,
+    "w": 58,
+    "h": 47
+},
+{
+    "name": "latin_capital_letter_z",
+    "x": 80,
+    "y": 109,
+    "w": 161,
+    "h": 219
+},
+{
+    "name": "musical_symbol_semiminima_black",
+    "x": 53,
+    "y": 129,
+    "w": 107,
+    "h": 258
+},
+{
+    "name": "right-to-left_mark",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "byzantine_musical_symbol_argosyntheton",
+    "x": 126,
+    "y": 53,
+    "w": 252,
+    "h": 107
+},
+{
+    "name": "byzantine_musical_symbol_kylisma",
+    "x": 160,
+    "y": 24,
+    "w": 320,
+    "h": 49
+},
+{
+    "name": "byzantine_musical_symbol_anatrichisma",
+    "x": 191,
+    "y": 109,
+    "w": 382,
+    "h": 219
+},
+{
+    "name": "greek_instrumental_notation_symbol-50",
+    "x": 82,
+    "y": 101,
+    "w": 165,
+    "h": 202
+},
+{
+    "name": "musical_symbol_five-line_staff",
+    "x": 129,
+    "y": 130,
+    "w": 258,
+    "h": 261
+},
+{
+    "name": "byzantine_musical_symbol_apeso_exo_neo",
+    "x": 172,
+    "y": 69,
+    "w": 345,
+    "h": 139
+},
+{
+    "name": "byzantine_musical_symbol_syrma",
+    "x": 100,
+    "y": 45,
+    "w": 201,
+    "h": 91
+},
+{
+    "name": "greek_instrumental_notation_symbol-45",
+    "x": 98,
+    "y": 81,
+    "w": 196,
+    "h": 162
+},
+{
+    "name": "greek_instrumental_notation_symbol-51",
+    "x": 84,
+    "y": 101,
+    "w": 168,
+    "h": 202
+},
+{
+    "name": "byzantine_musical_symbol_chroa_zygos",
+    "x": 29,
+    "y": 53,
+    "w": 58,
+    "h": 106
+},
+{
+    "name": "musical_symbol_ottava_alta",
+    "x": 74,
+    "y": 50,
+    "w": 149,
+    "h": 100
+},
+{
+    "name": "musical_symbol_breve",
+    "x": 82,
+    "y": 44,
+    "w": 164,
+    "h": 88
+},
+{
+    "name": "musical_symbol_forte",
+    "x": 54,
+    "y": 72,
+    "w": 108,
+    "h": 145
+},
+{
+    "name": "circumflex_accent",
+    "x": 63,
+    "y": 41,
+    "w": 126,
+    "h": 83
+},
+{
+    "name": "latin_capital_letter_l",
+    "x": 80,
+    "y": 103,
+    "w": 161,
+    "h": 206
+},
+{
+    "name": "musical_symbol_combining_tremolo-1",
+    "x": 30,
+    "y": 24,
+    "w": 60,
+    "h": 49
+},
+{
+    "name": "byzantine_musical_symbol_arktiko_ke",
+    "x": 37,
+    "y": 33,
+    "w": 75,
+    "h": 66
+},
+{
+    "name": "byzantine_musical_symbol_diesis_monogrammos_tessera_dodekata",
+    "x": 36,
+    "y": 34,
+    "w": 72,
+    "h": 69
+},
+{
+    "name": "thin_space",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "plus-minus_sign",
+    "x": 70,
+    "y": 81,
+    "w": 140,
+    "h": 162
+},
+{
+    "name": "musical_symbol_ornament_stroke-9",
+    "x": 34,
+    "y": 21,
+    "w": 69,
+    "h": 42
+},
+{
+    "name": "musical_symbol_nebenstimme",
+    "x": 52,
+    "y": 45,
+    "w": 104,
+    "h": 90
+},
+{
+    "name": "greek_vocal_notation_symbol-15",
+    "x": 126,
+    "y": 95,
+    "w": 253,
+    "h": 190
+},
+{
+    "name": "digit_eight",
+    "x": 66,
+    "y": 107,
+    "w": 132,
+    "h": 214
+},
+{
+    "name": "byzantine_musical_symbol_kratimoyporroon",
+    "x": 79,
+    "y": 37,
+    "w": 159,
+    "h": 74
+},
+{
+    "name": "musical_symbol_end_of_stimme",
+    "x": 28,
+    "y": 45,
+    "w": 57,
+    "h": 90
+},
+{
+    "name": "greek_vocal_notation_symbol-4",
+    "x": 114,
+    "y": 71,
+    "w": 229,
+    "h": 143
+},
+{
+    "name": "musical_symbol_degree_slash",
+    "x": 12,
+    "y": 14,
+    "w": 25,
+    "h": 29
+},
+{
+    "name": "reverse_solidus",
+    "x": 44,
+    "y": 119,
+    "w": 89,
+    "h": 238
+},
+{
+    "name": "musical_symbol_ornament_stroke-11",
+    "x": 23,
+    "y": 39,
+    "w": 46,
+    "h": 79
+},
+{
+    "name": "byzantine_musical_symbol_fthora_archaion",
+    "x": 189,
+    "y": 142,
+    "w": 379,
+    "h": 285
+},
+{
+    "name": "byzantine_musical_symbol_kathisti",
+    "x": 112,
+    "y": 54,
+    "w": 224,
+    "h": 109
+},
+{
+    "name": "euro_sign",
+    "x": 113,
+    "y": 105,
+    "w": 226,
+    "h": 211
+},
+{
+    "name": "byzantine_musical_symbol_chorevma_neo",
+    "x": 70,
+    "y": 41,
+    "w": 140,
+    "h": 83
+},
+{
+    "name": "musical_symbol_fermata_below",
+    "x": 86,
+    "y": 47,
+    "w": 172,
+    "h": 95
+},
+{
+    "name": "dollar_sign",
+    "x": 65,
+    "y": 127,
+    "w": 131,
+    "h": 254
+},
+{
+    "name": "latin_small_letter_w",
+    "x": 94,
+    "y": 64,
+    "w": 188,
+    "h": 128
+},
+{
+    "name": "musical_symbol_arpeggiato_up",
+    "x": 14,
+    "y": 86,
+    "w": 29,
+    "h": 173
+},
+{
+    "name": "byzantine_musical_symbol_isakia_telous_ichimatos",
+    "x": 54,
+    "y": 15,
+    "w": 108,
+    "h": 31
+},
+{
+    "name": "musical_symbol_combining_flag-5",
+    "x": 38,
+    "y": 167,
+    "w": 77,
+    "h": 334
+},
+{
+    "name": "musical_symbol_thirty-second_note",
+    "x": 73,
+    "y": 149,
+    "w": 146,
+    "h": 298
+},
+{
+    "name": "byzantine_musical_symbol_fthora_diatoniki_di",
+    "x": 36,
+    "y": 37,
+    "w": 72,
+    "h": 75
+},
+{
+    "name": "greek_instrumental_notation_symbol-36",
+    "x": 109,
+    "y": 103,
+    "w": 218,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_antikenoma",
+    "x": 117,
+    "y": 26,
+    "w": 235,
+    "h": 53
+},
+{
+    "name": "right_single_quotation_mark",
+    "x": 28,
+    "y": 37,
+    "w": 57,
+    "h": 75
+},
+{
+    "name": "byzantine_musical_symbol_thita",
+    "x": 86,
+    "y": 76,
+    "w": 172,
+    "h": 153
+},
+{
+    "name": "byzantine_musical_symbol_kratima_archaion",
+    "x": 84,
+    "y": 48,
+    "w": 168,
+    "h": 96
+},
+{
+    "name": "commercial_at",
+    "x": 124,
+    "y": 120,
+    "w": 249,
+    "h": 241
+},
+{
+    "name": "byzantine_musical_symbol_agogi_argi",
+    "x": 48,
+    "y": 51,
+    "w": 97,
+    "h": 102
+},
+{
+    "name": "musical_symbol_combining_bend",
+    "x": 34,
+    "y": 26,
+    "w": 69,
+    "h": 52
+},
+{
+    "name": "musical_symbol_combining_harmonic",
+    "x": 10,
+    "y": 10,
+    "w": 21,
+    "h": 20
+},
+{
+    "name": "greek_instrumental_notation_symbol-23",
+    "x": 80,
+    "y": 103,
+    "w": 161,
+    "h": 206
+},
+{
+    "name": "left_single_quotation_mark",
+    "x": 28,
+    "y": 37,
+    "w": 57,
+    "h": 75
+},
+{
+    "name": "greek_instrumental_notation_symbol-37",
+    "x": 103,
+    "y": 96,
+    "w": 207,
+    "h": 192
+},
+{
+    "name": "broken_bar",
+    "x": 9,
+    "y": 152,
+    "w": 19,
+    "h": 305
+},
+{
+    "name": "musical_symbol_combining_flag-4",
+    "x": 38,
+    "y": 151,
+    "w": 77,
+    "h": 303
+},
+{
+    "name": "latin_small_letter_v",
+    "x": 67,
+    "y": 64,
+    "w": 135,
+    "h": 128
+},
+{
+    "name": "left-to-right_mark",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "musical_symbol_tr",
+    "x": 58,
+    "y": 52,
+    "w": 117,
+    "h": 104
+},
+{
+    "name": "musical_symbol_drum_clef-2",
+    "x": 48,
+    "y": 130,
+    "w": 97,
+    "h": 261
+},
+{
+    "name": "greek_instrumental_notation_symbol-8",
+    "x": 125,
+    "y": 105,
+    "w": 250,
+    "h": 210
+},
+{
+    "name": "latin_small_letter_a",
+    "x": 61,
+    "y": 64,
+    "w": 122,
+    "h": 129
+},
+{
+    "name": "less-than_sign",
+    "x": 75,
+    "y": 74,
+    "w": 150,
+    "h": 148
+},
+{
+    "name": "musical_symbol_fermata",
+    "x": 86,
+    "y": 47,
+    "w": 172,
+    "h": 95
+},
+{
+    "name": "byzantine_musical_symbol_leimma_trion_chronon",
+    "x": 83,
+    "y": 66,
+    "w": 166,
+    "h": 133
+},
+{
+    "name": "musical_symbol_gregorian_c_clef",
+    "x": 42,
+    "y": 80,
+    "w": 85,
+    "h": 160
+},
+{
+    "name": "musical_symbol_turn_slash",
+    "x": 82,
+    "y": 56,
+    "w": 165,
+    "h": 113
+},
+{
+    "name": "musical_symbol_croix",
+    "x": 30,
+    "y": 26,
+    "w": 60,
+    "h": 52
+},
+{
+    "name": "musical_symbol_double_sharp",
+    "x": 36,
+    "y": 36,
+    "w": 73,
+    "h": 72
+},
+{
+    "name": "musical_symbol_sixteenth_note",
+    "x": 73,
+    "y": 128,
+    "w": 146,
+    "h": 256
+},
+{
+    "name": "byzantine_musical_symbol_revma",
+    "x": 143,
+    "y": 71,
+    "w": 287,
+    "h": 142
+},
+{
+    "name": "musical_symbol_square_notehead_white",
+    "x": 32,
+    "y": 33,
+    "w": 65,
+    "h": 66
+},
+{
+    "name": "byzantine_musical_symbol_daseia",
+    "x": 61,
+    "y": 53,
+    "w": 122,
+    "h": 106
+},
+{
+    "name": "byzantine_musical_symbol_tessera",
+    "x": 151,
+    "y": 93,
+    "w": 303,
+    "h": 187
+},
+{
+    "name": "greek_musical_leimma",
+    "x": 107,
+    "y": 104,
+    "w": 215,
+    "h": 208
+},
+{
+    "name": "latin_small_letter_c",
+    "x": 50,
+    "y": 64,
+    "w": 100,
+    "h": 128
+},
+{
+    "name": "byzantine_musical_symbol_fanerosis_tetrafonias",
+    "x": 51,
+    "y": 50,
+    "w": 103,
+    "h": 100
+},
+{
+    "name": "musical_symbol_combining_up_bow",
+    "x": 12,
+    "y": 23,
+    "w": 24,
+    "h": 47
+},
+{
+    "name": "latin_small_letter_t",
+    "x": 39,
+    "y": 75,
+    "w": 79,
+    "h": 150
+},
+{
+    "name": "musical_symbol_quindicesima_bassa",
+    "x": 113,
+    "y": 59,
+    "w": 227,
+    "h": 119
+},
+{
+    "name": "byzantine_musical_symbol_vareiai_archaion",
+    "x": 130,
+    "y": 92,
+    "w": 261,
+    "h": 185
+},
+{
+    "name": "byzantine_musical_symbol_kentimata_archaion",
+    "x": 63,
+    "y": 46,
+    "w": 127,
+    "h": 93
+},
+{
+    "name": "byzantine_musical_symbol_yporroi",
+    "x": 41,
+    "y": 34,
+    "w": 83,
+    "h": 69
+},
+{
+    "name": "musical_symbol_one_hundred_twenty-eighth_note",
+    "x": 73,
+    "y": 187,
+    "w": 146,
+    "h": 375
+},
+{
+    "name": "byzantine_musical_symbol_fthora_diatoniki_ke",
+    "x": 29,
+    "y": 35,
+    "w": 58,
+    "h": 71
+},
+{
+    "name": "musical_symbol_pes_subpunctis",
+    "x": 90,
+    "y": 83,
+    "w": 180,
+    "h": 166
+},
+{
+    "name": "punctuation_space",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "musical_symbol_damp",
+    "x": 29,
+    "y": 29,
+    "w": 58,
+    "h": 58
+},
+{
+    "name": "byzantine_musical_symbol_piasma_neo",
+    "x": 87,
+    "y": 45,
+    "w": 174,
+    "h": 90
+},
+{
+    "name": "byzantine_musical_symbol_dipli_archaion",
+    "x": 38,
+    "y": 23,
+    "w": 76,
+    "h": 46
+},
+{
+    "name": "latin_small_letter_u",
+    "x": 63,
+    "y": 64,
+    "w": 126,
+    "h": 128
+},
+{
+    "name": "musical_symbol_drum_clef-1",
+    "x": 37,
+    "y": 130,
+    "w": 74,
+    "h": 261
+},
+{
+    "name": "latin_small_letter_b",
+    "x": 63,
+    "y": 107,
+    "w": 127,
+    "h": 215
+},
+{
+    "name": "byzantine_musical_symbol_simansis_theseos_tetrasimou",
+    "x": 29,
+    "y": 32,
+    "w": 58,
+    "h": 65
+},
+{
+    "name": "musical_symbol_triangle_notehead_up_white",
+    "x": 41,
+    "y": 36,
+    "w": 83,
+    "h": 72
+},
+{
+    "name": "byzantine_musical_symbol_fthora_diatoniki_nana",
+    "x": 29,
+    "y": 49,
+    "w": 58,
+    "h": 98
+},
+{
+    "name": "pilcrow_sign",
+    "x": 73,
+    "y": 139,
+    "w": 147,
+    "h": 279
+},
+{
+    "name": "digit_seven",
+    "x": 68,
+    "y": 105,
+    "w": 137,
+    "h": 211
+},
+{
+    "name": "byzantine_musical_symbol_imifthora",
+    "x": 164,
+    "y": 125,
+    "w": 328,
+    "h": 250
+},
+{
+    "name": "musical_symbol_parenthesis_notehead",
+    "x": 38,
+    "y": 35,
+    "w": 77,
+    "h": 71
+},
+{
+    "name": "byzantine_musical_symbol_synagma_neo",
+    "x": 145,
+    "y": 40,
+    "w": 291,
+    "h": 81
+},
+{
+    "name": "byzantine_musical_symbol_gorthmikon_n_aploun",
+    "x": 44,
+    "y": 39,
+    "w": 88,
+    "h": 78
+},
+{
+    "name": "byzantine_musical_symbol_stavros_apodexia",
+    "x": 96,
+    "y": 96,
+    "w": 192,
+    "h": 192
+},
+{
+    "name": "byzantine_musical_symbol_leimma_dyo_chronon",
+    "x": 81,
+    "y": 66,
+    "w": 163,
+    "h": 133
+},
+{
+    "name": "byzantine_musical_symbol_chroa_kliton",
+    "x": 70,
+    "y": 39,
+    "w": 140,
+    "h": 78
+},
+{
+    "name": "musical_symbol_void_notehead",
+    "x": 40,
+    "y": 34,
+    "w": 81,
+    "h": 68
+},
+{
+    "name": "latin_small_letter_q",
+    "x": 66,
+    "y": 97,
+    "w": 132,
+    "h": 195
+},
+{
+    "name": "byzantine_musical_symbol_petastokoufisma",
+    "x": 162,
+    "y": 34,
+    "w": 324,
+    "h": 68
+},
+{
+    "name": "musical_symbol_semibrevis_rest",
+    "x": 6,
+    "y": 10,
+    "w": 12,
+    "h": 20
+},
+{
+    "name": "combining_greek_musical_tetraseme",
+    "x": 87,
+    "y": 41,
+    "w": 174,
+    "h": 82
+},
+{
+    "name": "latin_small_letter_f",
+    "x": 88,
+    "y": 140,
+    "w": 176,
+    "h": 280
+},
+{
+    "name": "byzantine_musical_symbol_klasma_kato",
+    "x": 51,
+    "y": 20,
+    "w": 103,
+    "h": 40
+},
+{
+    "name": "musical_symbol_combining_marcato",
+    "x": 46,
+    "y": 35,
+    "w": 93,
+    "h": 70
+},
+{
+    "name": "musical_symbol_combining_sprechgesang_stem",
+    "x": 31,
+    "y": 107,
+    "w": 63,
+    "h": 214
+},
+{
+    "name": "musical_symbol_combining_flag-3",
+    "x": 38,
+    "y": 128,
+    "w": 77,
+    "h": 256
+},
+{
+    "name": "byzantine_musical_symbol_martyria_plagios_ichos",
+    "x": 39,
+    "y": 91,
+    "w": 78,
+    "h": 183
+},
+{
+    "name": "greek_instrumental_notation_symbol-18",
+    "x": 89,
+    "y": 103,
+    "w": 178,
+    "h": 206
+},
+{
+    "name": "musical_symbol_sixty-fourth_rest",
+    "x": 62,
+    "y": 153,
+    "w": 124,
+    "h": 307
+},
+{
+    "name": "byzantine_musical_symbol_yfesis_apli_dyo_dodekata",
+    "x": 32,
+    "y": 30,
+    "w": 64,
+    "h": 60
+},
+{
+    "name": "greek_instrumental_notation_symbol-24",
+    "x": 80,
+    "y": 103,
+    "w": 161,
+    "h": 206
+},
+{
+    "name": "greek_instrumental_notation_symbol-30",
+    "x": 89,
+    "y": 103,
+    "w": 179,
+    "h": 206
+},
+{
+    "name": "musical_symbol_damp_all",
+    "x": 43,
+    "y": 43,
+    "w": 86,
+    "h": 86
+},
+{
+    "name": "musical_symbol_minima_black",
+    "x": 36,
+    "y": 129,
+    "w": 73,
+    "h": 258
+},
+{
+    "name": "byzantine_musical_symbol_psifistosynagma",
+    "x": 145,
+    "y": 59,
+    "w": 291,
+    "h": 118
+},
+{
+    "name": "musical_symbol_triangle_notehead_up_right_white",
+    "x": 42,
+    "y": 36,
+    "w": 84,
+    "h": 73
+},
+{
+    "name": "musical_symbol_longa",
+    "x": 46,
+    "y": 109,
+    "w": 92,
+    "h": 218
+},
+{
+    "name": "greek_instrumental_notation_symbol-25",
+    "x": 106,
+    "y": 105,
+    "w": 213,
+    "h": 211
+},
+{
+    "name": "left_square_bracket",
+    "x": 65,
+    "y": 135,
+    "w": 131,
+    "h": 271
+},
+{
+    "name": "greek_instrumental_notation_symbol-19",
+    "x": 106,
+    "y": 81,
+    "w": 213,
+    "h": 162
+},
+{
+    "name": "byzantine_musical_symbol_syrmatiki",
+    "x": 200,
+    "y": 47,
+    "w": 401,
+    "h": 95
+},
+{
+    "name": "byzantine_musical_symbol_kontevma_allo",
+    "x": 99,
+    "y": 114,
+    "w": 198,
+    "h": 228
+},
+{
+    "name": "zero_width_joiner",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "byzantine_musical_symbol_arktiko_ni",
+    "x": 27,
+    "y": 33,
+    "w": 55,
+    "h": 67
+},
+{
+    "name": "musical_symbol_combining_flag-2",
+    "x": 38,
+    "y": 107,
+    "w": 77,
+    "h": 214
+},
+{
+    "name": "byzantine_musical_symbol_tromikon_archaion",
+    "x": 124,
+    "y": 139,
+    "w": 248,
+    "h": 279
+},
+{
+    "name": "digit_nine",
+    "x": 67,
+    "y": 106,
+    "w": 134,
+    "h": 212
+},
+{
+    "name": "latin_small_letter_g",
+    "x": 65,
+    "y": 96,
+    "w": 130,
+    "h": 193
+},
+{
+    "name": "musical_symbol_semibrevis_white",
+    "x": 36,
+    "y": 36,
+    "w": 73,
+    "h": 73
+},
+{
+    "name": "latin_small_letter_p",
+    "x": 73,
+    "y": 106,
+    "w": 147,
+    "h": 212
+},
+{
+    "name": "musical_symbol_tempus_imperfectum_cum_prolatione_imperfecta_diminution-1",
+    "x": 38,
+    "y": 45,
+    "w": 77,
+    "h": 90
+},
+{
+    "name": "horizontal_ellipsis",
+    "x": 92,
+    "y": 19,
+    "w": 185,
+    "h": 38
+},
+{
+    "name": "digit_one",
+    "x": 51,
+    "y": 103,
+    "w": 103,
+    "h": 207
+},
+{
+    "name": "byzantine_musical_symbol_perispomeni",
+    "x": 100,
+    "y": 45,
+    "w": 201,
+    "h": 90
+},
+{
+    "name": "musical_symbol_fusa_black",
+    "x": 53,
+    "y": 129,
+    "w": 107,
+    "h": 258
+},
+{
+    "name": "byzantine_musical_symbol_gorgon_archaion",
+    "x": 72,
+    "y": 57,
+    "w": 144,
+    "h": 115
+},
+{
+    "name": "byzantine_musical_symbol_stigma",
+    "x": 31,
+    "y": 48,
+    "w": 63,
+    "h": 96
+},
+{
+    "name": "byzantine_musical_symbol_oyranisma_neo",
+    "x": 237,
+    "y": 49,
+    "w": 474,
+    "h": 99
+},
+{
+    "name": "left_parenthesis",
+    "x": 53,
+    "y": 153,
+    "w": 107,
+    "h": 307
+},
+{
+    "name": "musical_symbol_da_capo",
+    "x": 105,
+    "y": 49,
+    "w": 210,
+    "h": 99
+},
+{
+    "name": "byzantine_musical_symbol_endofonon",
+    "x": 158,
+    "y": 37,
+    "w": 316,
+    "h": 74
+},
+{
+    "name": "latin_small_letter_r",
+    "x": 53,
+    "y": 64,
+    "w": 107,
+    "h": 128
+},
+{
+    "name": "musical_symbol_tempus_imperfectum_cum_prolatione_imperfecta_diminution-3",
+    "x": 38,
+    "y": 62,
+    "w": 77,
+    "h": 124
+},
+{
+    "name": "latin_small_letter_e",
+    "x": 50,
+    "y": 64,
+    "w": 100,
+    "h": 128
+},
+{
+    "name": "byzantine_musical_symbol_paraklitiki",
+    "x": 186,
+    "y": 78,
+    "w": 373,
+    "h": 156
+},
+{
+    "name": "byzantine_musical_symbol_ichadin",
+    "x": 170,
+    "y": 122,
+    "w": 341,
+    "h": 245
+},
+{
+    "name": "musical_symbol_combining_augmentation_dot",
+    "x": 15,
+    "y": 14,
+    "w": 30,
+    "h": 29
+},
+{
+    "name": "byzantine_musical_symbol_fthora_skliron_chroma_synafi",
+    "x": 91,
+    "y": 39,
+    "w": 183,
+    "h": 78
+},
+{
+    "name": "byzantine_musical_symbol_thes_kai_apothes",
+    "x": 144,
+    "y": 57,
+    "w": 288,
+    "h": 114
+},
+{
+    "name": "musical_symbol_triangle-round_notehead_down_black",
+    "x": 36,
+    "y": 34,
+    "w": 73,
+    "h": 69
+},
+{
+    "name": "musical_symbol_g_clef_ottava_alta",
+    "x": 88,
+    "y": 184,
+    "w": 177,
+    "h": 369
+},
+{
+    "name": "en_dash",
+    "x": 62,
+    "y": 10,
+    "w": 124,
+    "h": 21
+},
+{
+    "name": "greek_instrumental_notation_symbol-27",
+    "x": 95,
+    "y": 105,
+    "w": 190,
+    "h": 211
+},
+{
+    "name": "byzantine_musical_symbol_yfen_kato",
+    "x": 100,
+    "y": 29,
+    "w": 200,
+    "h": 59
+},
+{
+    "name": "byzantine_musical_symbol_arktiko_zo",
+    "x": 26,
+    "y": 33,
+    "w": 52,
+    "h": 67
+},
+{
+    "name": "byzantine_musical_symbol_chorevma_archaion",
+    "x": 231,
+    "y": 111,
+    "w": 462,
+    "h": 223
+},
+{
+    "name": "musical_symbol_multiple_measure_rest",
+    "x": 62,
+    "y": 28,
+    "w": 124,
+    "h": 57
+},
+{
+    "name": "musical_symbol_begin_slur",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "greek_instrumental_notation_symbol-26",
+    "x": 114,
+    "y": 93,
+    "w": 228,
+    "h": 186
+},
+{
+    "name": "greek_instrumental_notation_symbol-32",
+    "x": 105,
+    "y": 56,
+    "w": 210,
+    "h": 113
+},
+{
+    "name": "byzantine_musical_symbol_apostrofoi_telous_ichimatos",
+    "x": 32,
+    "y": 15,
+    "w": 65,
+    "h": 31
+},
+{
+    "name": "colon",
+    "x": 31,
+    "y": 67,
+    "w": 63,
+    "h": 135
+},
+{
+    "name": "byzantine_musical_symbol_enarxis_kai_fthora_vou",
+    "x": 49,
+    "y": 51,
+    "w": 99,
+    "h": 103
+},
+{
+    "name": "musical_symbol_rinforzando",
+    "x": 35,
+    "y": 37,
+    "w": 70,
+    "h": 75
+},
+{
+    "name": "byzantine_musical_symbol_martyria_alli_deyteros_ichos",
+    "x": 65,
+    "y": 21,
+    "w": 130,
+    "h": 42
+},
+{
+    "name": "byzantine_musical_symbol_fthora_enarmonios_antifonia",
+    "x": 75,
+    "y": 44,
+    "w": 151,
+    "h": 88
+},
+{
+    "name": "musical_symbol_combining_flag-1",
+    "x": 38,
+    "y": 107,
+    "w": 77,
+    "h": 214
+},
+{
+    "name": "musical_symbol_crescendo",
+    "x": 72,
+    "y": 27,
+    "w": 145,
+    "h": 54
+},
+{
+    "name": "latin_small_letter_d",
+    "x": 71,
+    "y": 107,
+    "w": 142,
+    "h": 215
+},
+{
+    "name": "musical_symbol_tempus_imperfectum_cum_prolatione_imperfecta_diminution-2",
+    "x": 38,
+    "y": 62,
+    "w": 77,
+    "h": 124
+},
+{
+    "name": "musical_symbol_combining_staccato",
+    "x": 14,
+    "y": 15,
+    "w": 29,
+    "h": 30
+},
+{
+    "name": "latin_small_letter_s",
+    "x": 42,
+    "y": 64,
+    "w": 84,
+    "h": 128
+},
+{
+    "name": "byzantine_musical_symbol_klasma_ano",
+    "x": 51,
+    "y": 20,
+    "w": 103,
+    "h": 40
+},
+{
+    "name": "musical_symbol_tempus_imperfectum_cum_prolatione_perfecta",
+    "x": 38,
+    "y": 45,
+    "w": 77,
+    "h": 90
+},
+{
+    "name": "eighth_note",
+    "x": 73,
+    "y": 128,
+    "w": 146,
+    "h": 257
+},
+{
+    "name": "byzantine_musical_symbol_nana",
+    "x": 114,
+    "y": 50,
+    "w": 229,
+    "h": 100
+},
+{
+    "name": "musical_symbol_longa_imperfecta_rest",
+    "x": 6,
+    "y": 46,
+    "w": 12,
+    "h": 93
+},
+{
+    "name": "byzantine_musical_symbol_exo_ekfonitikon",
+    "x": 107,
+    "y": 102,
+    "w": 215,
+    "h": 205
+},
+{
+    "name": "exclamation_mark",
+    "x": 41,
+    "y": 111,
+    "w": 82,
+    "h": 222
+},
+{
+    "name": "byzantine_musical_symbol_apoderma_archaion",
+    "x": 121,
+    "y": 39,
+    "w": 242,
+    "h": 78
+},
+{
+    "name": "musical_symbol_combining_snap_pizzicato",
+    "x": 23,
+    "y": 64,
+    "w": 47,
+    "h": 128
+},
+{
+    "name": "musical_symbol_g_clef_ottava_bassa",
+    "x": 92,
+    "y": 173,
+    "w": 184,
+    "h": 347
+},
+{
+    "name": "musical_symbol_four-line_staff",
+    "x": 129,
+    "y": 99,
+    "w": 258,
+    "h": 198
+},
+{
+    "name": "byzantine_musical_symbol_leimma_enos_chronou",
+    "x": 81,
+    "y": 66,
+    "w": 163,
+    "h": 133
+},
+{
+    "name": "byzantine_musical_symbol_fthora_nenano",
+    "x": 29,
+    "y": 49,
+    "w": 58,
+    "h": 98
+},
+{
+    "name": "greek_vocal_notation_symbol-53",
+    "x": 105,
+    "y": 103,
+    "w": 211,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_thematismos_eso",
+    "x": 90,
+    "y": 45,
+    "w": 180,
+    "h": 91
+},
+{
+    "name": "musical_symbol_quarter_tone_sharp",
+    "x": 20,
+    "y": 56,
+    "w": 41,
+    "h": 112
+},
+{
+    "name": "latin_small_letter_i",
+    "x": 34,
+    "y": 98,
+    "w": 68,
+    "h": 197
+},
+{
+    "name": "byzantine_musical_symbol_digorgon_parestigmenon_dexia",
+    "x": 84,
+    "y": 26,
+    "w": 169,
+    "h": 53
+},
+{
+    "name": "byzantine_musical_symbol_leimma_imiseos_chronou",
+    "x": 81,
+    "y": 84,
+    "w": 163,
+    "h": 168
+},
+{
+    "name": "digit_three",
+    "x": 68,
+    "y": 107,
+    "w": 137,
+    "h": 214
+},
+{
+    "name": "musical_symbol_triangle_notehead_right_black",
+    "x": 42,
+    "y": 36,
+    "w": 84,
+    "h": 72
+},
+{
+    "name": "greek_instrumental_notation_symbol-17",
+    "x": 122,
+    "y": 77,
+    "w": 244,
+    "h": 155
+},
+{
+    "name": "byzantine_musical_symbol_oxeia_dipli",
+    "x": 160,
+    "y": 115,
+    "w": 320,
+    "h": 230
+},
+{
+    "name": "zero_width_non-joiner",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "musical_symbol_combining_doit",
+    "x": 47,
+    "y": 26,
+    "w": 95,
+    "h": 52
+},
+{
+    "name": "byzantine_musical_symbol_yfesis_trigrammos_okto_dodekata",
+    "x": 54,
+    "y": 53,
+    "w": 109,
+    "h": 106
+},
+{
+    "name": "musical_symbol_porrectus_flexus",
+    "x": 221,
+    "y": 129,
+    "w": 443,
+    "h": 258
+},
+{
+    "name": "byzantine_musical_symbol_ypsili",
+    "x": 55,
+    "y": 72,
+    "w": 111,
+    "h": 145
+},
+{
+    "name": "musical_symbol_torculus",
+    "x": 124,
+    "y": 72,
+    "w": 249,
+    "h": 144
+},
+{
+    "name": "byzantine_musical_symbol_psifiston_neo",
+    "x": 114,
+    "y": 39,
+    "w": 229,
+    "h": 79
+},
+{
+    "name": "byzantine_musical_symbol_parichon",
+    "x": 117,
+    "y": 72,
+    "w": 234,
+    "h": 145
+},
+{
+    "name": "quotation_mark",
+    "x": 42,
+    "y": 40,
+    "w": 84,
+    "h": 80
+},
+{
+    "name": "latin_small_letter_h",
+    "x": 63,
+    "y": 107,
+    "w": 127,
+    "h": 215
+},
+{
+    "name": "greek_instrumental_notation_symbol-1",
+    "x": 117,
+    "y": 97,
+    "w": 235,
+    "h": 195
+},
+{
+    "name": "greek_vocal_notation_symbol-52",
+    "x": 132,
+    "y": 105,
+    "w": 264,
+    "h": 211
+},
+{
+    "name": "musical_symbol_combining_staccatissimo",
+    "x": 19,
+    "y": 24,
+    "w": 39,
+    "h": 49
+},
+{
+    "name": "byzantine_musical_symbol_thema_aploun",
+    "x": 114,
+    "y": 45,
+    "w": 228,
+    "h": 91
+},
+{
+    "name": "byzantine_musical_symbol_agogi_mesi",
+    "x": 55,
+    "y": 64,
+    "w": 111,
+    "h": 128
+},
+{
+    "name": "percent_sign",
+    "x": 103,
+    "y": 126,
+    "w": 207,
+    "h": 252
+},
+{
+    "name": "musical_symbol_sharp_down",
+    "x": 35,
+    "y": 119,
+    "w": 70,
+    "h": 238
+},
+{
+    "name": "apostrophe",
+    "x": 20,
+    "y": 40,
+    "w": 40,
+    "h": 80
+},
+{
+    "name": "byzantine_musical_symbol_seisma_neo",
+    "x": 87,
+    "y": 50,
+    "w": 174,
+    "h": 101
+},
+{
+    "name": "byzantine_musical_symbol_kentima_archaion",
+    "x": 26,
+    "y": 27,
+    "w": 52,
+    "h": 55
+},
+{
+    "name": "byzantine_musical_symbol_simansis_arseos_tetrasimou",
+    "x": 25,
+    "y": 33,
+    "w": 50,
+    "h": 66
+},
+{
+    "name": "greek_vocal_notation_symbol-50",
+    "x": 113,
+    "y": 103,
+    "w": 227,
+    "h": 206
+},
+{
+    "name": "musical_symbol_sixty-fourth_note",
+    "x": 73,
+    "y": 172,
+    "w": 146,
+    "h": 345
+},
+{
+    "name": "byzantine_musical_symbol_fthora_diatoniki_ni_ano",
+    "x": 44,
+    "y": 46,
+    "w": 88,
+    "h": 92
+},
+{
+    "name": "latin_small_letter_j",
+    "x": 53,
+    "y": 131,
+    "w": 106,
+    "h": 262
+},
+{
+    "name": "musical_symbol_combining_accent",
+    "x": 41,
+    "y": 35,
+    "w": 83,
+    "h": 70
+},
+{
+    "name": "replacement_character",
+    "x": 174,
+    "y": 188,
+    "w": 349,
+    "h": 377
+},
+{
+    "name": "musical_symbol_combining_accent-staccato",
+    "x": 42,
+    "y": 34,
+    "w": 85,
+    "h": 69
+},
+{
+    "name": "greek_instrumental_notation_symbol-14",
+    "x": 128,
+    "y": 86,
+    "w": 257,
+    "h": 173
+},
+{
+    "name": "byzantine_musical_symbol_katava_tromikon",
+    "x": 172,
+    "y": 140,
+    "w": 345,
+    "h": 280
+},
+{
+    "name": "byzantine_musical_symbol_vareia_ekfonitikon",
+    "x": 107,
+    "y": 105,
+    "w": 215,
+    "h": 211
+},
+{
+    "name": "greek_instrumental_notation_symbol-29",
+    "x": 115,
+    "y": 77,
+    "w": 230,
+    "h": 154
+},
+{
+    "name": "byzantine_musical_symbol_simansis_theseos_trisimou",
+    "x": 29,
+    "y": 32,
+    "w": 58,
+    "h": 65
+},
+{
+    "name": "byzantine_musical_symbol_gorgon_neo_ano",
+    "x": 44,
+    "y": 15,
+    "w": 88,
+    "h": 31
+},
+{
+    "name": "music_natural_sign",
+    "x": 25,
+    "y": 88,
+    "w": 50,
+    "h": 176
+},
+{
+    "name": "musical_symbol_triangle_notehead_left_white",
+    "x": 41,
+    "y": 36,
+    "w": 83,
+    "h": 72
+},
+{
+    "name": "byzantine_musical_symbol_apothema",
+    "x": 133,
+    "y": 43,
+    "w": 267,
+    "h": 86
+},
+{
+    "name": "byzantine_musical_symbol_martyria_protos_ichos",
+    "x": 91,
+    "y": 29,
+    "w": 183,
+    "h": 59
+},
+{
+    "name": "byzantine_musical_symbol_ison_archaion",
+    "x": 101,
+    "y": 15,
+    "w": 203,
+    "h": 30
+},
+{
+    "name": "byzantine_musical_symbol_yfesis_tritimorion",
+    "x": 59,
+    "y": 36,
+    "w": 118,
+    "h": 73
+},
+{
+    "name": "asterisk",
+    "x": 58,
+    "y": 59,
+    "w": 116,
+    "h": 119
+},
+{
+    "name": "byzantine_musical_symbol_martyria_tetartos_ichos",
+    "x": 53,
+    "y": 53,
+    "w": 107,
+    "h": 107
+},
+{
+    "name": "greek_instrumental_notation_symbol-2",
+    "x": 114,
+    "y": 105,
+    "w": 229,
+    "h": 211
+},
+{
+    "name": "latin_small_letter_k",
+    "x": 64,
+    "y": 107,
+    "w": 128,
+    "h": 215
+},
+{
+    "name": "greek_vocal_notation_symbol-51",
+    "x": 175,
+    "y": 103,
+    "w": 350,
+    "h": 206
+},
+{
+    "name": "musical_symbol_gregorian_f_clef",
+    "x": 92,
+    "y": 88,
+    "w": 184,
+    "h": 177
+},
+{
+    "name": "musical_symbol_multi_rest",
+    "x": 50,
+    "y": 28,
+    "w": 100,
+    "h": 57
+},
+{
+    "name": "musical_symbol_moon_notehead_black",
+    "x": 37,
+    "y": 34,
+    "w": 75,
+    "h": 69
+},
+{
+    "name": "musical_symbol_end_phrase",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "byzantine_musical_symbol_fhtora_skliron_chroma_vasis",
+    "x": 85,
+    "y": 39,
+    "w": 171,
+    "h": 78
+},
+{
+    "name": "musical_symbol_clivis",
+    "x": 83,
+    "y": 129,
+    "w": 167,
+    "h": 258
+},
+{
+    "name": "musical_symbol_double_barline",
+    "x": 19,
+    "y": 130,
+    "w": 39,
+    "h": 261
+},
+{
+    "name": "musical_symbol_z",
+    "x": 40,
+    "y": 37,
+    "w": 81,
+    "h": 75
+},
+{
+    "name": "digit_six",
+    "x": 69,
+    "y": 106,
+    "w": 138,
+    "h": 213
+},
+{
+    "name": "byzantine_musical_symbol_fanerosis_difonias",
+    "x": 68,
+    "y": 21,
+    "w": 136,
+    "h": 43
+},
+{
+    "name": "musical_symbol_one_hundred_twenty-eighth_rest",
+    "x": 70,
+    "y": 184,
+    "w": 141,
+    "h": 368
+},
+{
+    "name": "byzantine_musical_symbol_kentima_neo_ano",
+    "x": 24,
+    "y": 23,
+    "w": 48,
+    "h": 46
+},
+{
+    "name": "byzantine_musical_symbol_diastoli_theseos",
+    "x": 26,
+    "y": 32,
+    "w": 53,
+    "h": 65
+},
+{
+    "name": "latin_small_letter_o",
+    "x": 55,
+    "y": 64,
+    "w": 110,
+    "h": 128
+},
+{
+    "name": "digit_two",
+    "x": 62,
+    "y": 104,
+    "w": 124,
+    "h": 209
+},
+{
+    "name": "not_sign",
+    "x": 62,
+    "y": 40,
+    "w": 125,
+    "h": 80
+},
+{
+    "name": "latin_small_letter_x",
+    "x": 64,
+    "y": 64,
+    "w": 128,
+    "h": 128
+},
+{
+    "name": "byzantine_musical_symbol_imidiargon",
+    "x": 44,
+    "y": 26,
+    "w": 89,
+    "h": 53
+},
+{
+    "name": "musical_symbol_sixteenth_rest",
+    "x": 45,
+    "y": 91,
+    "w": 90,
+    "h": 183
+},
+{
+    "name": "multiplication_sign",
+    "x": 65,
+    "y": 65,
+    "w": 130,
+    "h": 130
+},
+{
+    "name": "byzantine_musical_symbol_thema",
+    "x": 171,
+    "y": 86,
+    "w": 343,
+    "h": 172
+},
+{
+    "name": "greek_instrumental_notation_symbol-39",
+    "x": 110,
+    "y": 104,
+    "w": 220,
+    "h": 209
+},
+{
+    "name": "byzantine_musical_symbol_oyranisma_archaion",
+    "x": 173,
+    "y": 116,
+    "w": 347,
+    "h": 232
+},
+{
+    "name": "byzantine_musical_symbol_yfesis_digrammos_ex_dodekata",
+    "x": 48,
+    "y": 46,
+    "w": 96,
+    "h": 93
+},
+{
+    "name": "musical_symbol_repeated_figure-3",
+    "x": 116,
+    "y": 66,
+    "w": 233,
+    "h": 132
+},
+{
+    "name": "greek_instrumental_notation_symbol-11",
+    "x": 128,
+    "y": 103,
+    "w": 256,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_imifthoron",
+    "x": 115,
+    "y": 73,
+    "w": 230,
+    "h": 147
+},
+{
+    "name": "musical_symbol_repeated_figure-2",
+    "x": 79,
+    "y": 66,
+    "w": 159,
+    "h": 132
+},
+{
+    "name": "byzantine_musical_symbol_gorgon_parestigmenon_dexia",
+    "x": 62,
+    "y": 15,
+    "w": 125,
+    "h": 31
+},
+{
+    "name": "byzantine_musical_symbol_teleia",
+    "x": 121,
+    "y": 62,
+    "w": 243,
+    "h": 125
+},
+{
+    "name": "byzantine_musical_symbol_mikron_ison",
+    "x": 47,
+    "y": 22,
+    "w": 95,
+    "h": 44
+},
+{
+    "name": "greek_instrumental_notation_symbol-38",
+    "x": 103,
+    "y": 96,
+    "w": 207,
+    "h": 192
+},
+{
+    "name": "hyphen-minus",
+    "x": 26,
+    "y": 10,
+    "w": 53,
+    "h": 21
+},
+{
+    "name": "byzantine_musical_symbol_argon",
+    "x": 44,
+    "y": 15,
+    "w": 88,
+    "h": 31
+},
+{
+    "name": "byzantine_musical_symbol_vathy",
+    "x": 104,
+    "y": 69,
+    "w": 209,
+    "h": 138
+},
+{
+    "name": "musical_symbol_short_barline",
+    "x": 7,
+    "y": 68,
+    "w": 15,
+    "h": 136
+},
+{
+    "name": "musical_symbol_triangle_notehead_down_white",
+    "x": 41,
+    "y": 36,
+    "w": 83,
+    "h": 73
+},
+{
+    "name": "musical_symbol_caesura",
+    "x": 116,
+    "y": 66,
+    "w": 233,
+    "h": 132
+},
+{
+    "name": "byzantine_musical_symbol_yfesis_monogrammos_tessera_dodekata",
+    "x": 36,
+    "y": 34,
+    "w": 72,
+    "h": 69
+},
+{
+    "name": "greek_vocal_notation_symbol-54",
+    "x": 92,
+    "y": 108,
+    "w": 185,
+    "h": 216
+},
+{
+    "name": "latin_small_letter_y",
+    "x": 64,
+    "y": 96,
+    "w": 128,
+    "h": 193
+},
+{
+    "name": "beamed_sixteenth_notes",
+    "x": 92,
+    "y": 143,
+    "w": 185,
+    "h": 287
+},
+{
+    "name": "greek_instrumental_notation_symbol-7",
+    "x": 81,
+    "y": 105,
+    "w": 162,
+    "h": 211
+},
+{
+    "name": "latin_small_letter_n",
+    "x": 67,
+    "y": 64,
+    "w": 135,
+    "h": 129
+},
+{
+    "name": "object_replacement_character",
+    "x": 184,
+    "y": 184,
+    "w": 369,
+    "h": 368
+},
+{
+    "name": "byzantine_musical_symbol_fthora_malakon_chroma_difonias",
+    "x": 76,
+    "y": 39,
+    "w": 153,
+    "h": 78
+},
+{
+    "name": "musical_symbol_quindicesima_alta",
+    "x": 112,
+    "y": 50,
+    "w": 225,
+    "h": 100
+},
+{
+    "name": "musical_symbol_plus_notehead",
+    "x": 36,
+    "y": 36,
+    "w": 73,
+    "h": 73
+},
+{
+    "name": "music_flat_sign",
+    "x": 28,
+    "y": 85,
+    "w": 57,
+    "h": 170
+},
+{
+    "name": "byzantine_musical_symbol_martyria_alli_protos_ichos",
+    "x": 59,
+    "y": 65,
+    "w": 118,
+    "h": 130
+},
+{
+    "name": "byzantine_musical_symbol_pelaston_neo",
+    "x": 101,
+    "y": 42,
+    "w": 202,
+    "h": 85
+},
+{
+    "name": "zero_width_space",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "musical_symbol_cluster_notehead_white",
+    "x": 37,
+    "y": 102,
+    "w": 75,
+    "h": 204
+},
+{
+    "name": "plus_sign",
+    "x": 70,
+    "y": 69,
+    "w": 140,
+    "h": 139
+},
+{
+    "name": "musical_symbol_thirty-second_rest",
+    "x": 53,
+    "y": 122,
+    "w": 107,
+    "h": 245
+},
+{
+    "name": "byzantine_musical_symbol_tripli",
+    "x": 50,
+    "y": 13,
+    "w": 100,
+    "h": 26
+},
+{
+    "name": "musical_symbol_end_slur",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "musical_symbol_double_flat",
+    "x": 51,
+    "y": 85,
+    "w": 102,
+    "h": 170
+},
+{
+    "name": "byzantine_musical_symbol_tromikopsifiston",
+    "x": 92,
+    "y": 67,
+    "w": 185,
+    "h": 134
+},
+{
+    "name": "byzantine_musical_symbol_eteron_argosyntheton",
+    "x": 136,
+    "y": 51,
+    "w": 272,
+    "h": 102
+},
+{
+    "name": "greek_instrumental_notation_symbol-5",
+    "x": 123,
+    "y": 101,
+    "w": 247,
+    "h": 203
+},
+{
+    "name": "latin_small_letter_l",
+    "x": 39,
+    "y": 107,
+    "w": 78,
+    "h": 215
+},
+{
+    "name": "solidus",
+    "x": 94,
+    "y": 119,
+    "w": 188,
+    "h": 239
+},
+{
+    "name": "quarter_note",
+    "x": 40,
+    "y": 128,
+    "w": 81,
+    "h": 257
+},
+{
+    "name": "musical_symbol_quarter_tone_flat",
+    "x": 22,
+    "y": 56,
+    "w": 45,
+    "h": 112
+},
+{
+    "name": "grave_accent",
+    "x": 20,
+    "y": 40,
+    "w": 40,
+    "h": 80
+},
+{
+    "name": "musical_symbol_combining_loure",
+    "x": 40,
+    "y": 27,
+    "w": 81,
+    "h": 54
+},
+{
+    "name": "musical_symbol_semiminima_white",
+    "x": 53,
+    "y": 129,
+    "w": 107,
+    "h": 258
+},
+{
+    "name": "byzantine_musical_symbol_antikenokylisma",
+    "x": 142,
+    "y": 23,
+    "w": 284,
+    "h": 46
+},
+{
+    "name": "greek_instrumental_notation_symbol-12",
+    "x": 127,
+    "y": 103,
+    "w": 255,
+    "h": 206
+},
+{
+    "name": "musical_symbol_end_tie",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "mathematical_left_white_square_bracket",
+    "x": 65,
+    "y": 135,
+    "w": 131,
+    "h": 271
+},
+{
+    "name": "byzantine_musical_symbol_diargon",
+    "x": 66,
+    "y": 26,
+    "w": 133,
+    "h": 53
+},
+{
+    "name": "musical_symbol_semiminima_rest",
+    "x": 14,
+    "y": 17,
+    "w": 29,
+    "h": 35
+},
+{
+    "name": "musical_symbol_flat_up",
+    "x": 38,
+    "y": 97,
+    "w": 76,
+    "h": 195
+},
+{
+    "name": "musical_symbol_breath_mark",
+    "x": 25,
+    "y": 40,
+    "w": 50,
+    "h": 80
+},
+{
+    "name": "greek_instrumental_notation_symbol-13",
+    "x": 90,
+    "y": 103,
+    "w": 180,
+    "h": 206
+},
+{
+    "name": "musical_symbol_repeated_figure-1",
+    "x": 79,
+    "y": 66,
+    "w": 159,
+    "h": 132
+},
+{
+    "name": "byzantine_musical_symbol_digorgon_parestigmenon_aristera_ano",
+    "x": 66,
+    "y": 33,
+    "w": 133,
+    "h": 67
+},
+{
+    "name": "beamed_eighth_notes",
+    "x": 92,
+    "y": 143,
+    "w": 185,
+    "h": 287
+},
+{
+    "name": "byzantine_musical_symbol_gorthmikon_n_diploun",
+    "x": 45,
+    "y": 46,
+    "w": 90,
+    "h": 93
+},
+{
+    "name": "division_sign",
+    "x": 70,
+    "y": 69,
+    "w": 140,
+    "h": 139
+},
+{
+    "name": "byzantine_musical_symbol_fthora_diatoniki_pa",
+    "x": 29,
+    "y": 35,
+    "w": 58,
+    "h": 70
+},
+{
+    "name": "vertical_line",
+    "x": 9,
+    "y": 152,
+    "w": 19,
+    "h": 305
+},
+{
+    "name": "dotted_circle",
+    "x": 69,
+    "y": 69,
+    "w": 139,
+    "h": 139
+},
+{
+    "name": "musical_symbol_three-line_staff",
+    "x": 129,
+    "y": 68,
+    "w": 258,
+    "h": 136
+},
+{
+    "name": "latin_small_letter_z",
+    "x": 60,
+    "y": 77,
+    "w": 121,
+    "h": 155
+},
+{
+    "name": "musical_symbol_bracket",
+    "x": 44,
+    "y": 129,
+    "w": 88,
+    "h": 258
+},
+{
+    "name": "latin_small_letter_m",
+    "x": 102,
+    "y": 65,
+    "w": 204,
+    "h": 130
+},
+{
+    "name": "greek_instrumental_notation_symbol-4",
+    "x": 113,
+    "y": 71,
+    "w": 227,
+    "h": 143
+},
+{
+    "name": "musical_symbol_left_repeat_sign",
+    "x": 59,
+    "y": 130,
+    "w": 118,
+    "h": 261
+},
+{
+    "name": "musical_symbol_segno",
+    "x": 67,
+    "y": 86,
+    "w": 135,
+    "h": 173
+},
+{
+    "name": "byzantine_musical_symbol_simansis_arseos_trisimou",
+    "x": 16,
+    "y": 33,
+    "w": 32,
+    "h": 66
+},
+{
+    "name": "byzantine_musical_symbol_parakalesma_archaion",
+    "x": 233,
+    "y": 151,
+    "w": 467,
+    "h": 302
+},
+{
+    "name": "musical_symbol_begin_phrase",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "byzantine_musical_symbol_tromikolygisma",
+    "x": 145,
+    "y": 60,
+    "w": 290,
+    "h": 121
+},
+{
+    "name": "musical_symbol_ottava_bassa",
+    "x": 76,
+    "y": 59,
+    "w": 153,
+    "h": 119
+},
+{
+    "name": "musical_symbol_dashed_barline",
+    "x": 7,
+    "y": 130,
+    "w": 15,
+    "h": 261
+},
+{
+    "name": "byzantine_musical_symbol_tromikoparakalesma",
+    "x": 160,
+    "y": 60,
+    "w": 320,
+    "h": 120
+},
+{
+    "name": "byzantine_musical_symbol_geniki_yfesis",
+    "x": 29,
+    "y": 39,
+    "w": 58,
+    "h": 78
+},
+{
+    "name": "musical_symbol_tempus_perfectum_cum_prolatione_perfecta",
+    "x": 45,
+    "y": 45,
+    "w": 90,
+    "h": 90
+},
+{
+    "name": "musical_symbol_pedal_mark",
+    "x": 103,
+    "y": 61,
+    "w": 206,
+    "h": 122
+},
+{
+    "name": "byzantine_musical_symbol_psili",
+    "x": 61,
+    "y": 53,
+    "w": 122,
+    "h": 106
+},
+{
+    "name": "greek_vocal_notation_symbol-9",
+    "x": 128,
+    "y": 103,
+    "w": 256,
+    "h": 206
+},
+{
+    "name": "greek_vocal_notation_symbol-24",
+    "x": 117,
+    "y": 104,
+    "w": 234,
+    "h": 209
+},
+{
+    "name": "music_sharp_sign",
+    "x": 31,
+    "y": 91,
+    "w": 63,
+    "h": 183
+},
+{
+    "name": "byzantine_musical_symbol_chamilon",
+    "x": 68,
+    "y": 48,
+    "w": 137,
+    "h": 96
+},
+{
+    "name": "greek_vocal_notation_symbol-18",
+    "x": 112,
+    "y": 103,
+    "w": 225,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_kentimata",
+    "x": 100,
+    "y": 46,
+    "w": 201,
+    "h": 93
+},
+{
+    "name": "musical_symbol_ornament_stroke-4",
+    "x": 12,
+    "y": 49,
+    "w": 24,
+    "h": 99
+},
+{
+    "name": "musical_symbol_combining_flip",
+    "x": 32,
+    "y": 21,
+    "w": 64,
+    "h": 42
+},
+{
+    "name": "latin_capital_letter_a",
+    "x": 98,
+    "y": 104,
+    "w": 197,
+    "h": 209
+},
+{
+    "name": "latin_capital_letter_v",
+    "x": 107,
+    "y": 104,
+    "w": 215,
+    "h": 209
+},
+{
+    "name": "greek_instrumental_notation_symbol-48",
+    "x": 49,
+    "y": 101,
+    "w": 99,
+    "h": 202
+},
+{
+    "name": "byzantine_musical_symbol_koufisma",
+    "x": 118,
+    "y": 38,
+    "w": 236,
+    "h": 77
+},
+{
+    "name": "musical_symbol_right_repeat_sign",
+    "x": 59,
+    "y": 130,
+    "w": 118,
+    "h": 261
+},
+{
+    "name": "em_dash",
+    "x": 113,
+    "y": 10,
+    "w": 226,
+    "h": 21
+},
+{
+    "name": "byzantine_musical_symbol_digorgon_parestigmenon_aristera_kato",
+    "x": 84,
+    "y": 26,
+    "w": 169,
+    "h": 53
+},
+{
+    "name": "byzantine_musical_symbol_parakalesma_neo",
+    "x": 70,
+    "y": 73,
+    "w": 140,
+    "h": 146
+},
+{
+    "name": "byzantine_musical_symbol_piasma_archaion",
+    "x": 87,
+    "y": 108,
+    "w": 174,
+    "h": 217
+},
+{
+    "name": "greek_instrumental_notation_symbol-49",
+    "x": 90,
+    "y": 103,
+    "w": 180,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_elafron",
+    "x": 117,
+    "y": 41,
+    "w": 235,
+    "h": 82
+},
+{
+    "name": "musical_symbol_piano",
+    "x": 47,
+    "y": 52,
+    "w": 94,
+    "h": 104
+},
+{
+    "name": "latin_capital_letter_w",
+    "x": 142,
+    "y": 105,
+    "w": 284,
+    "h": 210
+},
+{
+    "name": "musical_symbol_ornament_stroke-5",
+    "x": 15,
+    "y": 42,
+    "w": 30,
+    "h": 85
+},
+{
+    "name": "musical_symbol_c_clef",
+    "x": 86,
+    "y": 130,
+    "w": 173,
+    "h": 261
+},
+{
+    "name": "musical_symbol_final_barline",
+    "x": 33,
+    "y": 130,
+    "w": 66,
+    "h": 261
+},
+{
+    "name": "greek_vocal_notation_symbol-19",
+    "x": 68,
+    "y": 105,
+    "w": 137,
+    "h": 211
+},
+{
+    "name": "byzantine_musical_symbol_ypokrisis_dipli",
+    "x": 63,
+    "y": 144,
+    "w": 127,
+    "h": 289
+},
+{
+    "name": "byzantine_musical_symbol_psifiston",
+    "x": 51,
+    "y": 133,
+    "w": 103,
+    "h": 267
+},
+{
+    "name": "musical_symbol_one-line_staff",
+    "x": 129,
+    "y": 5,
+    "w": 258,
+    "h": 11
+},
+{
+    "name": "musical_symbol_torculus_resupinus",
+    "x": 180,
+    "y": 129,
+    "w": 360,
+    "h": 258
+},
+{
+    "name": "greek_vocal_notation_symbol-8",
+    "x": 82,
+    "y": 103,
+    "w": 164,
+    "h": 206
+},
+{
+    "name": "musical_symbol_cut_time",
+    "x": 45,
+    "y": 88,
+    "w": 91,
+    "h": 177
+},
+{
+    "name": "byzantine_musical_symbol_eteron_parakalesma",
+    "x": 155,
+    "y": 35,
+    "w": 310,
+    "h": 70
+},
+{
+    "name": "bullet_operator",
+    "x": 19,
+    "y": 19,
+    "w": 38,
+    "h": 38
+},
+{
+    "name": "byzantine_musical_symbol_dyo",
+    "x": 146,
+    "y": 123,
+    "w": 293,
+    "h": 246
+},
+{
+    "name": "mathematical_right_white_square_bracket",
+    "x": 66,
+    "y": 135,
+    "w": 132,
+    "h": 271
+},
+{
+    "name": "byzantine_musical_symbol_kratimata",
+    "x": 232,
+    "y": 179,
+    "w": 465,
+    "h": 358
+},
+{
+    "name": "right_curly_bracket",
+    "x": 62,
+    "y": 152,
+    "w": 125,
+    "h": 305
+},
+{
+    "name": "byzantine_musical_symbol_apostrofos_neo",
+    "x": 60,
+    "y": 46,
+    "w": 120,
+    "h": 92
+},
+{
+    "name": "semicolon",
+    "x": 36,
+    "y": 90,
+    "w": 72,
+    "h": 181
+},
+{
+    "name": "byzantine_musical_symbol_digorgon",
+    "x": 66,
+    "y": 26,
+    "w": 133,
+    "h": 53
+},
+{
+    "name": "musical_symbol_square_notehead_black",
+    "x": 32,
+    "y": 33,
+    "w": 65,
+    "h": 66
+},
+{
+    "name": "double_vertical_line",
+    "x": 32,
+    "y": 152,
+    "w": 64,
+    "h": 305
+},
+{
+    "name": "mathematical_right_angle_bracket",
+    "x": 67,
+    "y": 146,
+    "w": 135,
+    "h": 293
+},
+{
+    "name": "no-break_space",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "byzantine_musical_symbol_dipli",
+    "x": 32,
+    "y": 13,
+    "w": 65,
+    "h": 26
+},
+{
+    "name": "musical_symbol_ornament_stroke-7",
+    "x": 45,
+    "y": 36,
+    "w": 91,
+    "h": 73
+},
+{
+    "name": "byzantine_musical_symbol_vareia_neo",
+    "x": 79,
+    "y": 57,
+    "w": 158,
+    "h": 115
+},
+{
+    "name": "byzantine_musical_symbol_martyria_plagios_tetartos_ichos",
+    "x": 110,
+    "y": 64,
+    "w": 221,
+    "h": 128
+},
+{
+    "name": "equals_sign",
+    "x": 70,
+    "y": 42,
+    "w": 140,
+    "h": 84
+},
+{
+    "name": "musical_symbol_hauptstimme",
+    "x": 52,
+    "y": 45,
+    "w": 104,
+    "h": 90
+},
+{
+    "name": "latin_capital_letter_b",
+    "x": 84,
+    "y": 104,
+    "w": 168,
+    "h": 209
+},
+{
+    "name": "musical_symbol_grace_note_slash",
+    "x": 38,
+    "y": 66,
+    "w": 77,
+    "h": 132
+},
+{
+    "name": "greater-than_sign",
+    "x": 74,
+    "y": 74,
+    "w": 149,
+    "h": 148
+},
+{
+    "name": "latin_capital_letter_u",
+    "x": 104,
+    "y": 104,
+    "w": 208,
+    "h": 208
+},
+{
+    "name": "byzantine_musical_symbol_epegerma",
+    "x": 104,
+    "y": 33,
+    "w": 209,
+    "h": 66
+},
+{
+    "name": "byzantine_musical_symbol_kratimokoufisma",
+    "x": 161,
+    "y": 39,
+    "w": 322,
+    "h": 79
+},
+{
+    "name": "musical_symbol_whole_note",
+    "x": 54,
+    "y": 34,
+    "w": 108,
+    "h": 68
+},
+{
+    "name": "byzantine_musical_symbol_arktiko_pa",
+    "x": 36,
+    "y": 32,
+    "w": 72,
+    "h": 65
+},
+{
+    "name": "byzantine_musical_symbol_apoderma_neo",
+    "x": 84,
+    "y": 16,
+    "w": 169,
+    "h": 33
+},
+{
+    "name": "full_stop",
+    "x": 19,
+    "y": 19,
+    "w": 39,
+    "h": 38
+},
+{
+    "name": "musical_symbol_half_rest",
+    "x": 50,
+    "y": 23,
+    "w": 100,
+    "h": 47
+},
+{
+    "name": "musical_symbol_porrectus",
+    "x": 144,
+    "y": 129,
+    "w": 288,
+    "h": 258
+},
+{
+    "name": "byzantine_musical_symbol_psifistolygisma",
+    "x": 144,
+    "y": 55,
+    "w": 289,
+    "h": 111
+},
+{
+    "name": "byzantine_musical_symbol_petasma",
+    "x": 140,
+    "y": 96,
+    "w": 280,
+    "h": 193
+},
+{
+    "name": "byzantine_musical_symbol_omalon",
+    "x": 140,
+    "y": 18,
+    "w": 281,
+    "h": 37
+},
+{
+    "name": "latin_capital_letter_t",
+    "x": 92,
+    "y": 108,
+    "w": 184,
+    "h": 216
+},
+{
+    "name": "latin_capital_letter_c",
+    "x": 99,
+    "y": 105,
+    "w": 198,
+    "h": 211
+},
+{
+    "name": "musical_symbol_ornament_stroke-6",
+    "x": 6,
+    "y": 51,
+    "w": 12,
+    "h": 102
+},
+{
+    "name": "byzantine_musical_symbol_martyria_tetartos_legetos_ichos",
+    "x": 53,
+    "y": 35,
+    "w": 107,
+    "h": 71
+},
+{
+    "name": "byzantine_musical_symbol_oxeia_ekfonitikon",
+    "x": 137,
+    "y": 112,
+    "w": 274,
+    "h": 224
+},
+{
+    "name": "byzantine_musical_symbol_oxeia_neo",
+    "x": 115,
+    "y": 22,
+    "w": 231,
+    "h": 45
+},
+{
+    "name": "byzantine_musical_symbol_yfen_ano",
+    "x": 88,
+    "y": 30,
+    "w": 177,
+    "h": 60
+},
+{
+    "name": "section_sign",
+    "x": 57,
+    "y": 139,
+    "w": 115,
+    "h": 278
+},
+{
+    "name": "degree_sign",
+    "x": 52,
+    "y": 51,
+    "w": 104,
+    "h": 103
+},
+{
+    "name": "musical_symbol_combining_stem",
+    "x": 6,
+    "y": 107,
+    "w": 12,
+    "h": 214
+},
+{
+    "name": "byzantine_musical_symbol_psifistoparakalesma",
+    "x": 129,
+    "y": 53,
+    "w": 258,
+    "h": 106
+},
+{
+    "name": "byzantine_musical_symbol_diesis_tetartimorion",
+    "x": 40,
+    "y": 48,
+    "w": 81,
+    "h": 96
+},
+{
+    "name": "musical_symbol_triangle_notehead_up_black",
+    "x": 41,
+    "y": 36,
+    "w": 83,
+    "h": 72
+},
+{
+    "name": "byzantine_musical_symbol_imifonon",
+    "x": 115,
+    "y": 55,
+    "w": 230,
+    "h": 111
+},
+{
+    "name": "musical_symbol_glissando_down",
+    "x": 64,
+    "y": 64,
+    "w": 128,
+    "h": 128
+},
+{
+    "name": "musical_symbol_four-string_fretboard",
+    "x": 73,
+    "y": 129,
+    "w": 147,
+    "h": 258
+},
+{
+    "name": "musical_symbol_tempus_imperfectum_cum_prolatione_imperfecta",
+    "x": 38,
+    "y": 45,
+    "w": 77,
+    "h": 90
+},
+{
+    "name": "byzantine_musical_symbol_kontevma",
+    "x": 112,
+    "y": 124,
+    "w": 224,
+    "h": 249
+},
+{
+    "name": "musical_symbol_mezzo",
+    "x": 64,
+    "y": 37,
+    "w": 129,
+    "h": 75
+},
+{
+    "name": "byzantine_musical_symbol_oxeiai_archaion",
+    "x": 85,
+    "y": 67,
+    "w": 170,
+    "h": 134
+},
+{
+    "name": "byzantine_musical_symbol_vareia_dipli",
+    "x": 144,
+    "y": 104,
+    "w": 288,
+    "h": 209
+},
+{
+    "name": "byzantine_musical_symbol_fthora_skliron_diatonon_di",
+    "x": 40,
+    "y": 41,
+    "w": 80,
+    "h": 83
+},
+{
+    "name": "byzantine_musical_symbol_saximata",
+    "x": 81,
+    "y": 21,
+    "w": 163,
+    "h": 43
+},
+{
+    "name": "right_double_quotation_mark",
+    "x": 56,
+    "y": 37,
+    "w": 112,
+    "h": 75
+},
+{
+    "name": "byzantine_musical_symbol_martyria_legetos_ichos",
+    "x": 106,
+    "y": 37,
+    "w": 213,
+    "h": 75
+},
+{
+    "name": "tilde",
+    "x": 72,
+    "y": 19,
+    "w": 144,
+    "h": 39
+},
+{
+    "name": "musical_symbol_fingered_tremolo-1",
+    "x": 48,
+    "y": 38,
+    "w": 96,
+    "h": 76
+},
+{
+    "name": "greek_vocal_notation_symbol-22",
+    "x": 80,
+    "y": 103,
+    "w": 161,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_stavros",
+    "x": 81,
+    "y": 23,
+    "w": 162,
+    "h": 46
+},
+{
+    "name": "byzantine_musical_symbol_kentimata_neo_ano",
+    "x": 47,
+    "y": 23,
+    "w": 95,
+    "h": 46
+},
+{
+    "name": "musical_symbol_ornament_stroke-2",
+    "x": 41,
+    "y": 33,
+    "w": 82,
+    "h": 66
+},
+{
+    "name": "latin_capital_letter_p",
+    "x": 88,
+    "y": 104,
+    "w": 177,
+    "h": 208
+},
+{
+    "name": "latin_capital_letter_g",
+    "x": 100,
+    "y": 105,
+    "w": 201,
+    "h": 211
+},
+{
+    "name": "byzantine_musical_symbol_kentima_neo_kato",
+    "x": 24,
+    "y": 23,
+    "w": 49,
+    "h": 46
+},
+{
+    "name": "byzantine_musical_symbol_synagma_meta_stavrou",
+    "x": 228,
+    "y": 96,
+    "w": 457,
+    "h": 193
+},
+{
+    "name": "musical_symbol_begin_beam",
+    "x": 250,
+    "y": 250,
+    "w": 500,
+    "h": 500
+},
+{
+    "name": "musical_symbol_half_pedal_mark",
+    "x": 67,
+    "y": 23,
+    "w": 135,
+    "h": 47
+},
+{
+    "name": "byzantine_musical_symbol_kentima_neo_meso",
+    "x": 24,
+    "y": 23,
+    "w": 49,
+    "h": 46
+},
+{
+    "name": "byzantine_musical_symbol_diastoli_dipli",
+    "x": 14,
+    "y": 24,
+    "w": 29,
+    "h": 49
+},
+{
+    "name": "latin_capital_letter_f",
+    "x": 85,
+    "y": 103,
+    "w": 171,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_agogi_metria",
+    "x": 95,
+    "y": 51,
+    "w": 191,
+    "h": 102
+},
+{
+    "name": "musical_symbol_eighth_note",
+    "x": 73,
+    "y": 128,
+    "w": 146,
+    "h": 256
+},
+{
+    "name": "byzantine_musical_symbol_apeso_ekfonitikon",
+    "x": 109,
+    "y": 123,
+    "w": 219,
+    "h": 246
+},
+{
+    "name": "latin_capital_letter_q",
+    "x": 105,
+    "y": 137,
+    "w": 210,
+    "h": 274
+},
+{
+    "name": "musical_symbol_coda",
+    "x": 57,
+    "y": 65,
+    "w": 115,
+    "h": 131
+},
+{
+    "name": "musical_symbol_ornament_stroke-3",
+    "x": 48,
+    "y": 33,
+    "w": 97,
+    "h": 66
+},
+{
+    "name": "byzantine_musical_symbol_diastoli_apli_megali",
+    "x": 5,
+    "y": 38,
+    "w": 11,
+    "h": 76
+},
+{
+    "name": "byzantine_musical_symbol_leimma_tessaron_chronon",
+    "x": 100,
+    "y": 66,
+    "w": 201,
+    "h": 133
+},
+{
+    "name": "musical_symbol_triangle_notehead_up_right_black",
+    "x": 42,
+    "y": 36,
+    "w": 84,
+    "h": 73
+},
+{
+    "name": "musical_symbol_combining_rip",
+    "x": 47,
+    "y": 26,
+    "w": 95,
+    "h": 52
+},
+{
+    "name": "musical_symbol_quarter_rest",
+    "x": 35,
+    "y": 98,
+    "w": 71,
+    "h": 197
+},
+{
+    "name": "greek_vocal_notation_symbol-23",
+    "x": 95,
+    "y": 104,
+    "w": 190,
+    "h": 209
+},
+{
+    "name": "byzantine_musical_symbol_martyria_tritos_ichos",
+    "x": 107,
+    "y": 48,
+    "w": 215,
+    "h": 97
+},
+{
+    "name": "musical_symbol_fusa_white",
+    "x": 53,
+    "y": 129,
+    "w": 107,
+    "h": 258
+},
+{
+    "name": "left_double_quotation_mark",
+    "x": 56,
+    "y": 37,
+    "w": 112,
+    "h": 75
+},
+{
+    "name": "musical_symbol_brevis",
+    "x": 46,
+    "y": 27,
+    "w": 92,
+    "h": 54
+},
+{
+    "name": "byzantine_musical_symbol_agogi_gorgi",
+    "x": 48,
+    "y": 51,
+    "w": 97,
+    "h": 102
+},
+{
+    "name": "byzantine_musical_symbol_tria",
+    "x": 100,
+    "y": 84,
+    "w": 201,
+    "h": 169
+},
+{
+    "name": "musical_symbol_maxima",
+    "x": 73,
+    "y": 109,
+    "w": 147,
+    "h": 218
+},
+{
+    "name": "musical_symbol_semibrevis_black",
+    "x": 36,
+    "y": 36,
+    "w": 73,
+    "h": 73
+},
+{
+    "name": "musical_symbol_arpeggiato_down",
+    "x": 14,
+    "y": 104,
+    "w": 29,
+    "h": 209
+},
+{
+    "name": "digit_zero",
+    "x": 65,
+    "y": 107,
+    "w": 130,
+    "h": 214
+},
+{
+    "name": "byzantine_musical_symbol_geniki_diesis",
+    "x": 29,
+    "y": 39,
+    "w": 58,
+    "h": 78
+},
+{
+    "name": "byzantine_musical_symbol_apostrofos",
+    "x": 88,
+    "y": 70,
+    "w": 177,
+    "h": 140
+},
+{
+    "name": "greek_vocal_notation_symbol-21",
+    "x": 97,
+    "y": 104,
+    "w": 194,
+    "h": 208
+},
+{
+    "name": "byzantine_musical_symbol_diesis_trigrammos_okto_dodekata",
+    "x": 54,
+    "y": 53,
+    "w": 109,
+    "h": 106
+},
+{
+    "name": "musical_symbol_fingered_tremolo-2",
+    "x": 48,
+    "y": 58,
+    "w": 96,
+    "h": 116
+},
+{
+    "name": "digit_four",
+    "x": 65,
+    "y": 104,
+    "w": 131,
+    "h": 208
+},
+{
+    "name": "musical_symbol_ornament_stroke-1",
+    "x": 14,
+    "y": 55,
+    "w": 29,
+    "h": 110
+},
+{
+    "name": "latin_capital_letter_s",
+    "x": 66,
+    "y": 105,
+    "w": 132,
+    "h": 211
+},
+{
+    "name": "musical_symbol_minima",
+    "x": 36,
+    "y": 129,
+    "w": 73,
+    "h": 258
+},
+{
+    "name": "latin_capital_letter_d",
+    "x": 113,
+    "y": 105,
+    "w": 226,
+    "h": 210
+},
+{
+    "name": "byzantine_musical_symbol_agogi_poli_gorgi",
+    "x": 88,
+    "y": 72,
+    "w": 177,
+    "h": 145
+},
+{
+    "name": "musical_symbol_triangle-round_notehead_down_white",
+    "x": 36,
+    "y": 34,
+    "w": 73,
+    "h": 69
+},
+{
+    "name": "byzantine_musical_symbol_tetrapli",
+    "x": 67,
+    "y": 13,
+    "w": 134,
+    "h": 26
+},
+{
+    "name": "musical_symbol_natural_down",
+    "x": 34,
+    "y": 101,
+    "w": 69,
+    "h": 203
+},
+{
+    "name": "musical_symbol_inverted_turn",
+    "x": 82,
+    "y": 37,
+    "w": 165,
+    "h": 75
+},
+{
+    "name": "musical_symbol_six-line_staff",
+    "x": 129,
+    "y": 161,
+    "w": 258,
+    "h": 323
+},
+{
+    "name": "right_parenthesis",
+    "x": 55,
+    "y": 153,
+    "w": 110,
+    "h": 306
+},
+{
+    "name": "musical_symbol_flat_down",
+    "x": 38,
+    "y": 115,
+    "w": 76,
+    "h": 231
+},
+{
+    "name": "musical_symbol_minima_rest",
+    "x": 6,
+    "y": 10,
+    "w": 12,
+    "h": 20
+},
+{
+    "name": "musical_symbol_longa_perfecta_rest",
+    "x": 6,
+    "y": 65,
+    "w": 12,
+    "h": 130
+},
+{
+    "name": "byzantine_musical_symbol_agogi_argoteri",
+    "x": 48,
+    "y": 61,
+    "w": 97,
+    "h": 123
+},
+{
+    "name": "byzantine_musical_symbol_diesis_digrammos_ex_dodekata",
+    "x": 48,
+    "y": 46,
+    "w": 96,
+    "h": 93
+},
+{
+    "name": "low_line",
+    "x": 79,
+    "y": 10,
+    "w": 159,
+    "h": 21
+},
+{
+    "name": "musical_symbol_common_time",
+    "x": 45,
+    "y": 54,
+    "w": 91,
+    "h": 109
+},
+{
+    "name": "musical_symbol_notehead_black",
+    "x": 40,
+    "y": 34,
+    "w": 81,
+    "h": 68
+},
+{
+    "name": "latin_capital_letter_e",
+    "x": 89,
+    "y": 103,
+    "w": 178,
+    "h": 206
+},
+{
+    "name": "latin_capital_letter_r",
+    "x": 95,
+    "y": 104,
+    "w": 190,
+    "h": 209
+},
+{
+    "name": "musical_symbol_fingered_tremolo-3",
+    "x": 48,
+    "y": 78,
+    "w": 96,
+    "h": 157
+},
+{
+    "name": "greek_vocal_notation_symbol-20",
+    "x": 85,
+    "y": 103,
+    "w": 171,
+    "h": 206
+},
+{
+    "name": "byzantine_musical_symbol_thematismos_exo",
+    "x": 90,
+    "y": 45,
+    "w": 180,
+    "h": 91
+},
+{
+    "name": "musical_symbol_reverse_final_barline",
+    "x": 33,
+    "y": 130,
+    "w": 66,
+    "h": 261
+},
+{
+    "name": "byzantine_musical_symbol_martyria_varys_ichos",
+    "x": 82,
+    "y": 40,
+    "w": 165,
+    "h": 81
+},
+{
+    "name": "musical_symbol_virga",
+    "x": 42,
+    "y": 129,
+    "w": 85,
+    "h": 258
+},
+{
+    "name": "byzantine_musical_symbol_martyria_trifonias",
+    "x": 66,
+    "y": 31,
+    "w": 133,
+    "h": 63
+},
+{
+    "name": "byzantine_musical_symbol_ison_neo",
+    "x": 122,
+    "y": 35,
+    "w": 244,
+    "h": 70
+},
+{
+    "name": "byzantine_musical_symbol_psilon",
+    "x": 57,
+    "y": 87,
+    "w": 114,
+    "h": 175
+},
+{
+    "name": "byzantine_musical_symbol_fanerosis_monofonias",
+    "x": 61,
+    "y": 20,
+    "w": 123,
+    "h": 41
+}]
